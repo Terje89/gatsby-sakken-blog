@@ -1,8 +1,4 @@
 import React from 'react'
-import './signup-form.css'
-require('dotenv').config({
-  path: `.env.${process.env.NODE_ENV}`,
-})
 
 const handleSubmit = e => {
   window.open(

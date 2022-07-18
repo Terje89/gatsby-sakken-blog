@@ -46,6 +46,7 @@ const Bio = () => {
         <p>
           Skrevet av <strong>{author.name}</strong> {author?.summary || null}
           {` `}
+          <br />
           <a href={`https://www.linkedin.com/in/${social?.linkedin || ``}`}>
             Følg meg på LinkedIn
           </a>

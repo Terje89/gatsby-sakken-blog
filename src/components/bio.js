@@ -19,7 +19,7 @@ const Bio = () => {
             summary
           }
           social {
-            twitter
+            linkedin
           }
         }
       }
@@ -44,8 +44,11 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
+          Skrevet av <strong>{author.name}</strong> {author?.summary || null}
           {` `}
+          <a href={`https://www.linkedin.com/in/${social?.linkedin || ``}`}>
+            Følg meg på LinkedIn
+          </a>
         </p>
       )}
     </div>

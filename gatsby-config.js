@@ -8,7 +8,7 @@ module.exports = {
     description: `En blogg som handler om noe.`,
     siteUrl: `https://sakken.me/`,
     social: {
-      twitter: `***`,
+      linkedin: `terje-sakariassen-1a40964a`,
     },
   },
   plugins: [

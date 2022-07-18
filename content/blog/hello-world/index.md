@@ -45,7 +45,7 @@ This is a paragraph.
 
     Header 1
     ========
-
+    
     Header 2
     --------
 
@@ -167,7 +167,7 @@ Paragraph:
 <!-- -->
 
     Paragraph:
-
+    
         Code
 
 ---
@@ -181,13 +181,13 @@ Paragraph:
 ---
 
     * * *
-
+    
     ***
-
+    
     *****
-
+    
     - - -
-
+    
     ---------------------------------------
 
 This is [an example](http://example.com "Example") link.
@@ -199,11 +199,11 @@ This is [an example][id] reference-style link.
 [id]: http://example.com "Optional Title"
 
     This is [an example](http://example.com "Example") link.
-
+    
     [This link](http://example.com) has no title attr.
-
+    
     This is [an example] [id] reference-style link.
-
+    
     [id]: http://example.com "Optional Title"
 
 _single asterisks_
@@ -215,11 +215,11 @@ _single underscores_
 **double underscores**
 
     *single asterisks*
-
+    
     _single underscores_
-
+    
     **double asterisks**
-
+    
     __double underscores__
 
 This paragraph has some `code` in it.

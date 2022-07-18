@@ -3,7 +3,7 @@ module.exports = {
     title: `Sakken`,
     author: {
       name: `Terje Sakariassen`,
-      summary: `som skal skrive mer her.`,
+      summary: ``,
     },
     description: `En blogg som handler om noe.`,
     siteUrl: `https://sakken.me/`,

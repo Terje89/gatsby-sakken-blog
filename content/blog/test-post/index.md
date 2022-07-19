@@ -1,6 +1,6 @@
 ---
 title: Test post!
-date: "2022-07-18T22:12:03.284Z"
+date: "2022-07-18"
 description: "Hei på deg"
 
 ---

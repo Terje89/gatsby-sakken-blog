@@ -38,9 +38,9 @@ Rammeeffekten skjer når folk tar forskjellige beslutninger basert på forskjell
 
 Don Draper fokuserte folks oppmerksomhet på et irrelevant aspekt ved sigarettene. Slik at de ikke lenger tenker på om de er farlig eller ikke. 90% fettfri i stedet for 10% fett fokuserer folks oppmerksomhet på et høyere tall slik at den opplevde verdien økes. Samme produkt, men forskjellig oppfatning. 
 
-Hverdagen vår er full av slike rammer, og hjernen vår er helt avhengig av de for å ta beslutninger. Hva du sier er derfor ikke like viktig som hvordan du sier det
+Hverdagen vår er full av slike rammer, og hjernen vår er helt avhengig av de for å ta beslutninger. Hva du sier er derfor ikke like viktig som hvordan du sier det.
 
-> Hva du sier er *ikke* like viktig som hvordan du sier det
+> Hva du sier er *ikke* like viktig som hvordan du sier det.
 
 ## Rammeeffekten og markedsføring
 
@@ -48,7 +48,7 @@ Når vi bruker rammeeffekten i markedsføring hjelper vi hjernen til vår målgr
 
 Så hvordan kan vi gjøre dette? Start med å se etter tall i din bedrift som enten sier noe om bedriften i sin helet eller om produktet/tjenesten du selger. Finn deretter så mange måter som mulig å snakke om dette tallet på. Snu det på hodet, prøv med prosenter, desimaler, og andre uttrykk helt til du finner en variasjon som føles bedre enn de andre. 
 
-Hvis du for eksempel har en churn på 25% så kunne du ha rammet inn dette som: "75% av våre kunder kjøper av oss igjen!", men det høres ikke helt bra ut. 75% er ikke et høyt nok tall til å kunne bety "alle" i hodet til folk. "Tre av fire kunder kjøper av oss igjen" høres derimot mye bedre ut. 
+Hvis du for eksempel har en churn på 25% kunne du ha rammet inn dette som: "75% av våre kunder kjøper av oss igjen!", men det høres ikke helt bra ut. 75% er ikke et høyt nok tall til å kunne bety "alle" i hodet til folk. "Tre av fire kunder kjøper av oss igjen" høres derimot mye bedre ut. 
 
 Andre måter vi kan ramme inn dette på er:
 
@@ -56,7 +56,7 @@ Andre måter vi kan ramme inn dette på er:
 * 8 av 10 kunder elsker våre tjeneste
 * En av fire kommer aldri tilbake
 
-Alle disse sier den sammen tingen, men de *føles* forskjellig. Dette er makten til rammer. 
+Alle disse sier den sammen tingen, men de *føles* forskjellig. 
 
-Rammet inn på den riktige måten så kan dine største svakheter bli til stryker.
+Dette er makten til rammeeffekten.
 

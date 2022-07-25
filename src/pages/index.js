@@ -4,6 +4,10 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import { withMixpanel } from 'gatsby-plugin-mixpanel'
+
+const { mixpanel } = this.props
+mixpanel.track('Viewed Forside');
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`

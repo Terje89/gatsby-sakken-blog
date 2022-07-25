@@ -31,13 +31,14 @@ module.exports = {
       resolve: 'gatsby-plugin-mixpanel',
       options: {
         apiToken: process.env.YOUR_MIXPANEL_API_TOKEN, // required
-        pageViews: all,
+        pageViews: 'all',
       },
     },
     {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+          `gatsby-remark-reading-time`,
           {
             resolve: `gatsby-remark-images`,
             options: {

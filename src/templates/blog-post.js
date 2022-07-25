@@ -4,12 +4,15 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import { readingTime } from 'reading-time-estimator'
+
 
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
-  const {timeToRead} = data.markdownRemark.timeToRead
+  const result = readingTime(post.html, 10);
+
 
 
   return (
@@ -25,7 +28,7 @@ const BlogPostTemplate = ({ data, location }) => {
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
+          <p>{post.frontmatter.date} - {result.minutes} minutter å lese. </p>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}

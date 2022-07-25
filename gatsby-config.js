@@ -63,7 +63,6 @@ module.exports = {
               ], //Optional: Override URL of a service provider, e.g to enable youtube-nocookie support
               containerClass: "embedVideo-container", //Optional: Custom CSS class for iframe container, for multiple classes separate them by space
               iframeId: false, //Optional: if true, iframe's id will be set to what is provided after 'video:' (YouTube IFrame player API requires iframe id)
-              sandbox: 'allow-same-origin allow-scripts allow-presentation', // Optional: iframe sandbox options - Default: undefined
             },
           },
           {

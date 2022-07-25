@@ -4,14 +4,17 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import { useMixpanel } from 'gatsby-plugin-mixpanel'
+
 
 
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
+  const mixpanel = useMixpanel()
 
-
+  mixpanel.track('Viewed {post.frontmatter.title}');
 
   return (
     <Layout location={location} title={siteTitle}>

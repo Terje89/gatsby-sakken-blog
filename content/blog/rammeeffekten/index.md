@@ -48,7 +48,9 @@ Når vi bruker rammeeffekten i markedsføring hjelper vi hjernen til vår målgr
 
 99% av alle beslutninger tas ubevist(kilde), og det er en massiv fordel hvis vi kan ramme inn vårt budskap slik at det havner innunder denne gruppen. 
 
-Så hvordan kan vi gjøre dette? Start med å se etter tall i din bedrift som enten sier noe om bedriften i sin helet eller om produktet/tjenesten du selger. 
+### Så hvordan kan vi gjøre dette? 
+
+Start med å se etter tall i din bedrift som enten sier noe om bedriften i sin helet eller om produktet/tjenesten du selger. 
 
 Finn deretter så mange måter som mulig å snakke om dette tallet på. Snu det på hodet, prøv med prosenter, desimaler, og andre uttrykk helt til du finner en variasjon som føles bedre enn de andre. 
 

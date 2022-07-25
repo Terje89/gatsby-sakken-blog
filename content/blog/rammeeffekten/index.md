@@ -6,8 +6,6 @@ description: "Hva du sier er ikke like viktig som hvordan du sier det."
 
 ---
 
-# Rammeeffekten
-
 Se for deg at du er i gang med å lage matpakke for barna. Du legger frem brødskivene, hiver på godt med smør, og innser alt for sent at du har godt tom for ost! Du hiver deg derfor i bilen og kjører til nærmeste Rema 1000. Du parkerer bilen og småjogger bort til den plassen du vet de har osten, der du blir presentert med disse to innpakningene fra Synnøve: 
 
 Bilde
@@ -16,7 +14,9 @@ Hvilken en velger du?
 
 Folk flest vil velge den til venstre, men hvorfor? 90% fettfri og 10% fett er jo akkurat den samme tingen. Selv om pakken med 10% fett har vært noen kroner billigere så har du nok uansett valgt den første. Ikke veldig rasjonelt. 
 
-Så er vi lettlurt? Nei vi er ikke det, men måten vi blir presentert for informasjon har stor påvirkning på hvordan informasjonen oppfattes. Grunnen er at vår underbevissthet evaluerer og tar beslutninger basert på antagelser. Når vi ser et maleri med en flott innramming vil vi umiddelbart anta at maleriet i selg selv må være av høyere kvalitet. Vi gjør det samme med tall, da høyere tall ofte betyr høyere verdi. 
+Så er vi lettlurt? Nei vi er ikke det, men måten vi blir presentert for informasjon har stor påvirkning på hvordan informasjonen oppfattes. Grunnen er at vår underbevissthet evaluerer og tar beslutninger basert på antagelser. 
+
+Når vi ser et maleri med en flott innramming vil vi umiddelbart anta at maleriet i selg selv må være av høyere kvalitet. Vi gjør det samme med tall, da høyere tall ofte betyr høyere verdi. 
 
 ## “It’s toasted”
 
@@ -44,11 +44,17 @@ Hverdagen vår er full av slike rammer, og hjernen vår er helt avhengig av de f
 
 ## Rammeeffekten og markedsføring
 
-Når vi bruker rammeeffekten i markedsføring hjelper vi hjernen til vår målgruppe med å evaluere og sammenligne. Målet er at underbevisstheten til vår målgruppe skal kunne ta beslutninger uten at beviste delen av hjernen blandes inn. 99% av alle beslutninger tas ubevist(kilde), og det er en massiv fordel hvis vi kan ramme inn vårt budskap slik at det havner innunder denne gruppen. 
+Når vi bruker rammeeffekten i markedsføring hjelper vi hjernen til vår målgruppe med å evaluere og sammenligne. Målet er at underbevisstheten til vår målgruppe skal kunne ta beslutninger uten at beviste delen av hjernen blandes inn. 
 
-Så hvordan kan vi gjøre dette? Start med å se etter tall i din bedrift som enten sier noe om bedriften i sin helet eller om produktet/tjenesten du selger. Finn deretter så mange måter som mulig å snakke om dette tallet på. Snu det på hodet, prøv med prosenter, desimaler, og andre uttrykk helt til du finner en variasjon som føles bedre enn de andre. 
+99% av alle beslutninger tas ubevist(kilde), og det er en massiv fordel hvis vi kan ramme inn vårt budskap slik at det havner innunder denne gruppen. 
 
-Hvis du for eksempel har en churn på 25% kunne du ha rammet inn dette som: "75% av våre kunder kjøper av oss igjen!", men det høres ikke helt bra ut. 75% er ikke et høyt nok tall til å kunne bety "alle" i hodet til folk. "Tre av fire kunder kjøper av oss igjen" høres derimot mye bedre ut. 
+Så hvordan kan vi gjøre dette? Start med å se etter tall i din bedrift som enten sier noe om bedriften i sin helet eller om produktet/tjenesten du selger. 
+
+Finn deretter så mange måter som mulig å snakke om dette tallet på. Snu det på hodet, prøv med prosenter, desimaler, og andre uttrykk helt til du finner en variasjon som føles bedre enn de andre. 
+
+Hvis du for eksempel har en churn på 25% kunne du ha rammet inn dette som: "75% av våre kunder kjøper av oss igjen!", men det høres ikke helt bra ut. 75% er ikke et høyt nok tall til å kunne bety "alle" i hodet til folk. 
+
+"Tre av fire kunder kjøper av oss igjen" høres derimot mye bedre ut. 
 
 Andre måter vi kan ramme inn dette på er:
 

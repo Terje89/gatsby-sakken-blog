@@ -32,6 +32,7 @@ module.exports = {
       options: {
         apiToken: process.env.YOUR_MIXPANEL_API_TOKEN, // required
         pageViews: 'all',
+        trackPageViewsAs: null,
       },
     },
     {

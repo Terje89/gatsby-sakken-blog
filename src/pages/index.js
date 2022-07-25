@@ -45,7 +45,6 @@ const BlogIndex = ({ data, location }) => {
                     </Link>
                   </h2>
                   <small>{post.frontmatter.date}</small>
-                  <small> - {timeToRead} minutter å lese.</small>
                 </header>
                 <section>
                   <p
@@ -76,7 +75,6 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
       nodes {
-        timeToRead
         excerpt
         fields {
           slug

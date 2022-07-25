@@ -6,9 +6,6 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 import { withMixpanel } from 'gatsby-plugin-mixpanel'
 
-const { mixpanel } = this.props
-mixpanel.track('Viewed Forside');
-
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
@@ -33,6 +30,7 @@ const BlogIndex = ({ data, location }) => {
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
+          const {timeToRead} = node
 
           return (
             <li key={post.fields.slug}>
@@ -48,6 +46,7 @@ const BlogIndex = ({ data, location }) => {
                     </Link>
                   </h2>
                   <small>{post.frontmatter.date}</small>
+                  <small> - {timeToRead} minutter</small>
                 </header>
                 <section>
                   <p
@@ -78,6 +77,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
       nodes {
+        timeToRead
         excerpt
         fields {
           slug

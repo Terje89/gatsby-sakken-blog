@@ -28,6 +28,12 @@ module.exports = {
       },
     },
     {
+      resolve: 'gatsby-plugin-mixpanel',
+      options: {
+        apiToken: process.env.YOUR_MIXPANEL_API_TOKEN, // required
+      },
+    },
+    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
@@ -125,7 +131,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "Sakken.me RSS Feed",
           },
         ],
       },

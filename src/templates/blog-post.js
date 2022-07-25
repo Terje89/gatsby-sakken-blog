@@ -9,6 +9,8 @@ const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
+  const {timeToRead} = data.markdownRemark.timeToRead
+
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -23,7 +25,7 @@ const BlogPostTemplate = ({ data, location }) => {
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
+          <p>{post.frontmatter.date}  - {timeToRead} minutter å lese.</p>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
@@ -80,6 +82,7 @@ export const pageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       id
       excerpt(pruneLength: 160)
+      timeToRead
       html
       frontmatter {
         title

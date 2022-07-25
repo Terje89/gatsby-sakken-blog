@@ -4,7 +4,6 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import { withMixpanel } from 'gatsby-plugin-mixpanel'
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
@@ -46,7 +45,7 @@ const BlogIndex = ({ data, location }) => {
                     </Link>
                   </h2>
                   <small>{post.frontmatter.date}</small>
-                  <small> - {timeToRead} minutter</small>
+                  <small> - {timeToRead} minutter å lese.</small>
                 </header>
                 <section>
                   <p

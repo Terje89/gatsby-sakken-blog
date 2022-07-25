@@ -58,9 +58,9 @@ Hvis du for eksempel har en churn på 25% kunne du ha rammet inn dette som: "75%
 
 Andre måter vi kan ramme inn dette på er:
 
-* De fleste kjøper av oss igjen
-* 8 av 10 kunder elsker våre tjeneste
-* En av fire kommer aldri tilbake
+> * De fleste kjøper av oss igjen
+> * 8 av 10 kunder elsker våre tjeneste
+> * En av fire kommer aldri tilbake
 
 Alle disse sier den sammen tingen, men de *føles* forskjellig. 
 

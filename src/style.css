@@ -334,8 +334,7 @@ a:focus {
 
 @media screen and (max-width: 600px) {
   .SideImageContainer {
-    visibility: hidden;
-    display: none;
+    display: none !important;
   }
 }
 
@@ -385,7 +384,7 @@ a:focus {
 }
 
 .InnterContainer h2 {
-  margin: 0; 
+  margin-top: 0px; 
   color: #005b99; 
   font-size: 24px;
 }

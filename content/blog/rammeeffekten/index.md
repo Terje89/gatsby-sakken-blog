@@ -6,7 +6,6 @@ timeToRead: "6"
 magnetTitle: "Før du går..."
 magnetDescription: "Skriv inn din epost under så sender jeg deg et arbeidsark for å lære mer om rammeeffekten"
 
-
 ---
 
 Se for deg at du er i gang med å lage matpakke for barna. Du legger frem brødskivene, hiver på godt med smør, og innser alt for sent at du har godt tom for ost! Du hiver deg derfor i bilen og kjører til nærmeste Rema 1000. 

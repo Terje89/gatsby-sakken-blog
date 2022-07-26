@@ -19,7 +19,7 @@
                 <div className="FormGroup">
                     <form       
                     method="post"
-                    onSubmit={_handleSubmit(email)}
+                    onSubmit={handleSubmit(email)}
                     >
                     <input type="text" placeholder="ola@nordmann.no" id="email"></input>
                     <button>Ja! send meg en kopi</button>

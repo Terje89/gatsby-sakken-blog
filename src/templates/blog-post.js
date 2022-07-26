@@ -32,7 +32,7 @@ const BlogPostTemplate = ({ data, location }) => {
         />
         <Newsletter 
           magnetTitle = {post.frontmatter.magnetTitle}
-          magetDescription = {post.frontmatter.magnetDescription}
+          magnetDescription = {post.frontmatter.magnetDescription}
         />
         <footer>
           <Bio />

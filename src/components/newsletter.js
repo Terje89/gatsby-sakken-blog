@@ -4,16 +4,27 @@
  import addToMailchimp from 'gatsby-plugin-mailchimp'
  
  const Newsletter = ({ magnetTitle, magnetDescription }) => {
+    const [email, setEmail] = useState("")
+    const [submitted, setSubmitted] = useState(false)  
 
-    super()
-    this.state = { email: "", result: null }
-    _handleSubmit = async e => {
-        e.preventDefault()
-        const result = await addToMailchimp(this.state.email)
-        this.setState({result: result})
+    function errorHandling(data) {
+        // your error handling
       }
-    handleChange = event => {
-        this.setState({ email: event.target.value })
+      
+      const handleSubmit = () => {
+        addToMailchimp(email).then((data) => {
+    
+          if (data.result == "error") {
+            errorHandling(data)
+          } else {
+            trackCustomEvent({
+              category: "Newsletter",
+              action: "Click",
+              label: `Newsletter Click`,
+            })
+            setSubmitted(true)
+          }
+        })
       }
 
    return (
@@ -22,8 +33,13 @@
             <div className="InnterContainer">
                 <h2>{magnetTitle}</h2>
                 <p>{magnetDescription}</p>
+                <>
+                {submitted ? (
+                    <FormGroup>
+                    <p>Takk!</p>
+                    </FormGroup>
+                ) : (
                 <div className="FormGroup">
-                    <form onSubmit={_handleSubmit}>
                     <input 
                         id="outlined-email-input"
                         label="Email"
@@ -31,11 +47,11 @@
                         name="email"
                         autoComplete="email"
                         variant="outlined"
-                        onChange={handleChange}
+                        onChange={(e) => setEmail(e.target.value)}
                     ></input>
-                    <button>Ja! send meg en kopi</button>
-                    </form>
-                </div>
+                    <button onClick={() => handleSubmit()}>Ja! send meg en kopi</button>
+                </div>)}
+                </>
              </div>
          </div>
          <div className="SideImageContainer">

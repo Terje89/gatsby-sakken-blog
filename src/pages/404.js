@@ -7,7 +7,7 @@ import { MixpanelContext } from '../tracking';
 
 const NotFoundPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
-  const mixpanel = useContext(MixpanelContext);
+  const mixpanel = React.useContext(MixpanelContext);
 
   useEffect(() => {
     mixpanel.track('Viewed Page');

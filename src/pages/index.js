@@ -9,7 +9,7 @@ import { MixpanelContext } from '../tracking';
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
-  const mixpanel = useContext(MixpanelContext);
+  const mixpanel = React.useContext(MixpanelContext);
 
   useEffect(() => {
     mixpanel.track('Viewed Page');

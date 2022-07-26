@@ -1,12 +1,12 @@
  import * as React from "react"
  import { useStaticQuery, graphql } from "gatsby"
  import { StaticImage } from "gatsby-plugin-image"
+ import addToMailchimp from 'gatsby-plugin-mailchimp'
 
- const handleSubmit = e => {
+
+ _handleSubmit = async (e) => {
     e.preventDefault();
-    addToMailchimp(email) // listFields are optional if you are only capturing the email address.
-    .then(data => {})
-    .catch(() => {})
+    const result = await addToMailchimp(email)
   }
  
  const Newsletter = ({ magnetTitle, magnetDescription }) => {
@@ -19,7 +19,7 @@
                 <div className="FormGroup">
                     <form       
                     method="post"
-                    onSubmit={handleSubmit}
+                    onSubmit={this._handleSubmit(email)}
                     >
                     <input type="text" placeholder="ola@nordmann.no" id="email"></input>
                     <button>Ja! send meg en kopi</button>

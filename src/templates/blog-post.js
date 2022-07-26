@@ -12,11 +12,7 @@ const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
-  const mixpanel = useContext(MixpanelContext);
 
-  useEffect(() => {
-    mixpanel.track('Viewed Content');
-  }, [mixpanel]);
 
   return (
     <Layout location={location} title={siteTitle}>

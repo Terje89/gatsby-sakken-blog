@@ -4,7 +4,7 @@ date: "2022-07-18"
 description: "Hva du sier er ikke like viktig som hvordan du sier det."
 timeToRead: "6"
 magnetTitle: "Før du går..."
-magnetDescription: "Skriv inn din epost under så sender jeg deg et arbeidsark for å lære mer om rammeeffekten"
+magnetDescription: "Skriv inn din epost under så sender jeg deg et arbeidsark for å lære mer om rammeeffekten 👇👇👇"
 
 ---
 

@@ -17,14 +17,13 @@
          </div>
         <div className="SideImageContainer">
             <StaticImage
-            className="Image"
-            layout="fixed"
-            placeholder="tracedSVG"
-            formats={["auto", "webp", "avif"]}
-            src="../images/workbook.svg"
-            object-fit="scale-down"
-            object-position="50% 50%"
-            alt="Workbook"
+                layout="fixed"
+                placeholder="tracedSVG"
+                formats={["auto", "webp", "avif"]}
+                src="../images/workbook.svg"
+                object-fit="scale-down"
+                object-position="50% 50%"
+                alt="Arbeidsbok"
             />
          </div>
      </div>

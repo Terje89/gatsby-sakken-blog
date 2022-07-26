@@ -408,21 +408,18 @@ a:focus {
 
 .FormGroup input{
   outline: none; 
-  border: 1px solid gray; 
+  border: none; 
   background-color: #fff; 
   padding-left: 7px; 
   padding-right: 3em;
   border-radius: 17px; 
-  border-right: 0px;
-  border-top-right-radius: 0px;
-  border-bottom-right-radius: 0px;
   color: #000; 
   height: 100%;
 }
 
 .FormGroup button{
   position: absolute; 
-  right: -22px; 
+  right: -25%; 
   top: 0; 
   height: 100%; 
   border: none; 
@@ -430,8 +427,6 @@ a:focus {
   color: #fff; 
   background-color: #005b99; 
   cursor: pointer; 
-  border-bottom-left-radius: 16px; 
-  border-bottom-right-radius: 16px; 
-  border-top-right-radius: 16px; 
+  border-radius: 16px;
   padding: 0 10px;
 }

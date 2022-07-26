@@ -18,9 +18,8 @@
         <div className="SideImageContainer">
             <StaticImage
                 layout="fixed"
-                placeholder="tracedSVG"
                 formats={["auto", "webp", "avif"]}
-                src="../images/workbook.svg"
+                src="../images/workbook.png"
                 object-fit="scale-down"
                 object-position="50% 50%"
                 alt="Arbeidsbok"

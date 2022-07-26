@@ -17,11 +17,6 @@
           if (data.result == "error") {
             errorHandling(data)
           } else {
-            trackCustomEvent({
-              category: "Newsletter",
-              action: "Click",
-              label: `Newsletter Click`,
-            })
             setSubmitted(true)
           }
         })

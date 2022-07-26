@@ -17,9 +17,7 @@
              </div>
          </div>
         <div className="SideImageContainer">
-        <Image>
-            bilde 
-        </Image>
+        <div className="Image">bilde</div>
          </div>
      </div>
    )

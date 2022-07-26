@@ -2,7 +2,7 @@
  import { useStaticQuery, graphql } from "gatsby"
  import { StaticImage } from "gatsby-plugin-image"
 
- _handleSubmit = e => {
+ const handleSubmit = e => {
     e.preventDefault();
     addToMailchimp(email) // listFields are optional if you are only capturing the email address.
     .then(data => {})

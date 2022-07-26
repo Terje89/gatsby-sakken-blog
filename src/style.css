@@ -407,3 +407,21 @@ a:focus {
   font-weight: 500; 
   font-size: 20px;
 }
+
+.FormGroup  {
+  display: flex; 
+  position: relative; 
+  height: 53px; 
+  margin-top: 1em; 
+}
+
+.FormGroup  input{
+  outline: none; 
+  border: none; 
+  background-color: #fff; 
+  padding-left: 1,5em; 
+  border-radius: 17px; 
+  font-size: 20px; 
+  color: #000; 
+  height: 100%;
+}

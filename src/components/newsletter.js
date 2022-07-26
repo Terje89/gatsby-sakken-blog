@@ -10,6 +10,9 @@
                 <h2>Hei! Vent...</h2>
                 <h3>Last ned</h3>
                 <p>Lyst til å lære med om blablabla?</p>
+                <div className="FormGroup">
+                    <input type="text" placeholder="ola@nordmann.no"></input>
+                </div>
              </div>
          </div>
         <div className="SideImageContainer">

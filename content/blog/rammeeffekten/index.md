@@ -2,6 +2,7 @@
 title: Rammeeffekten
 date: "2022-07-18"
 description: "Hva du sier er ikke like viktig som hvordan du sier det."
+timeToRead: "6"
 
 
 ---

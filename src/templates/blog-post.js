@@ -30,7 +30,7 @@ const BlogPostTemplate = ({ data, location }) => {
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
+          <p>{post.frontmatter.date} - {post.frontmatter.timeToRead} minutter å lese.</p>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
@@ -92,6 +92,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "DD.MM.YYYY")
         description
+        timeToRead
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {

@@ -91,7 +91,7 @@ export const pageQuery = graphql`
         description
         timeToRead
         magnetTitle
-        mangetDescription
+        magnetDescription
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {

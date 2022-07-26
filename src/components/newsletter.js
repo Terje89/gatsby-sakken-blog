@@ -2,13 +2,13 @@
  import { useStaticQuery, graphql } from "gatsby"
  import { StaticImage } from "gatsby-plugin-image"
  
- const Newsletter = ({ magnetTitle, mangetDescription }) => {
+ const Newsletter = ({ magnetTitle, magnetDescription }) => {
    return (
      <div className="CardContainer">
         <div className="DetailsContainer">
             <div className="InnterContainer">
                 <h2>{magnetTitle}</h2>
-                <p>{mangetDescription}</p>
+                <p>{magnetDescription}</p>
                 <div className="FormGroup">
                     <input type="text" placeholder="ola@nordmann.no"></input>
                     <button>Send inn</button>

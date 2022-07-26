@@ -17,7 +17,9 @@
              </div>
          </div>
         <div className="SideImageContainer">
-        <div className="Image">bilde</div>
+        <div className="Image">
+            <img src="../images/workbook.svg" />
+        </div>
          </div>
      </div>
    )

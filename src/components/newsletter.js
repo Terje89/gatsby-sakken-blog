@@ -4,7 +4,7 @@
  import addToMailchimp from 'gatsby-plugin-mailchimp'
 
 
- _handleSubmit = async (e) => {
+ const handleSubmit = async (e) => {
     e.preventDefault();
     const result = await addToMailchimp(email)
   }
@@ -19,7 +19,7 @@
                 <div className="FormGroup">
                     <form       
                     method="post"
-                    onSubmit={this._handleSubmit(email)}
+                    onSubmit={_handleSubmit(email)}
                     >
                     <input type="text" placeholder="ola@nordmann.no" id="email"></input>
                     <button>Ja! send meg en kopi</button>

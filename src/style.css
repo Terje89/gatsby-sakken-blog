@@ -343,3 +343,18 @@ a:focus {
   background-color: rgba(255,255,255, 0.2); 
   backdrop-filter: blur(10px);
 }
+
+.SideImageContainer {
+  max-width: 55%; 
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+  flex: 1;
+  position: relative; 
+  background: rgb(148,147,247);
+  background: linear-gradient(
+    217deg, 
+    rgba(148,147,247,1) 0%, 
+    rgba(210,194,221,1) 100%
+  );
+}

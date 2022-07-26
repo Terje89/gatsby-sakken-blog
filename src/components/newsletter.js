@@ -5,6 +5,7 @@
  const Newsletter = () => {
    const data = useStaticQuery(graphql`
      query BioQuery {
+        $id: String!
         markdownRemark(id: { eq: $id }) {
             id
             excerpt(pruneLength: 160)
@@ -21,7 +22,9 @@
  
    return (
      <div className="CardContainer">
+        <div className="SideImageContainer">
         test
+         </div>
      </div>
    )
  }

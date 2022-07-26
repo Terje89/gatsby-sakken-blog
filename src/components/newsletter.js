@@ -12,12 +12,13 @@
                 <p>Lyst til å lære med om blablabla?</p>
                 <div className="FormGroup">
                     <input type="text" placeholder="ola@nordmann.no"></input>
+                    <button>Send inn</button>
                 </div>
              </div>
          </div>
         <div className="SideImageContainer">
         <Image>
-            <img src="" />
+            bilde 
         </Image>
          </div>
      </div>

@@ -17,9 +17,13 @@
              </div>
          </div>
         <div className="SideImageContainer">
-        <div className="Image">
-            <img src="../images/workbook.svg" />
-        </div>
+            <StaticImage
+            className="Image"
+            layout="fixed"
+            formats={["auto", "webp", "avif"]}
+            src="../images/workbook.svg"
+            alt="Workbook"
+            />
          </div>
      </div>
    )

@@ -3,13 +3,9 @@ import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import mixpanel from 'mixpanel-browser';
 
 const NotFoundPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
-
-  mixpanel.init(rocess.env.YOUR_MIXPANEL_API_TOKEN, {debug: false}); 
-  mixpanel.track('Viewed Page');
 
   return (
     <Layout location={location} title={siteTitle}>

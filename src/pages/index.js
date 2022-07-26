@@ -1,5 +1,4 @@
 import * as React from "react"
-import { useContext, useEffect } from 'react';
 import { Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
@@ -10,10 +9,9 @@ import mixpanel from 'mixpanel-browser';
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
-  const mixpanel = useContext(MixpanelContext);
 
   mixpanel.init(rocess.env.YOUR_MIXPANEL_API_TOKEN, {debug: false}); 
-  mixpanel.track('Content Viewed');
+  mixpanel.track('Viewed Page');
 
   if (posts.length === 0) {
     return (

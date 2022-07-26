@@ -13,7 +13,7 @@ const BlogPostTemplate = ({ data, location }) => {
   const { previous, next } = data
 
   mixpanel.init(rocess.env.YOUR_MIXPANEL_API_TOKEN, {debug: false}); 
-  mixpanel.track('Content Viewed');
+  mixpanel.track('Viewed Content');
 
   return (
     <Layout location={location} title={siteTitle}>

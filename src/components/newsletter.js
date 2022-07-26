@@ -22,6 +22,8 @@
             layout="fixed"
             formats={["auto", "webp", "avif"]}
             src="../images/workbook.svg"
+            object-fit="contain"
+            object-position="50% 50%"
             alt="Workbook"
             />
          </div>

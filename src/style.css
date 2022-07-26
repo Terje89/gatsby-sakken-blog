@@ -334,8 +334,8 @@ a:focus {
 
 /* newsletter */
 .CardContainer {
-  width: 1100px; 
-  height: 500px; 
+  width: 100%; 
+  height: 400px; 
   display: flex; 
   border-radius: 26px; 
   position: relative; 
@@ -351,7 +351,7 @@ a:focus {
   justify-content: center; 
   flex: 1;
   position: relative; 
-  background: rgb(148,147,247);
+  background: hsl(241, 86%, 77%);
   background: linear-gradient(
     217deg, 
     rgba(148,147,247,1) 0%, 
@@ -372,7 +372,7 @@ a:focus {
   height: 100%; 
 }
 
-.DetailsContaner {
+.DetailsContainer {
   height: 100%; 
   display: flex; 
   flex-direction: column; 
@@ -389,23 +389,7 @@ a:focus {
 
 .InnterContainer h2 {
   margin: 0; 
-  color: #262fec; 
-  font-weight: 700; 
-  font-size: 45px;
-}
-
-.InnterContainer h3 {
-  margin: 10px 0; 
-  color: #000; 
-  font-weight: 700; 
-  font-size: 45px;
-}
-
-.InnterContainer p {
-  margin: 10px 0; 
-  color: #000; 
-  font-weight: 500; 
-  font-size: 20px;
+  color: #005b99; 
 }
 
 .FormGroup  {
@@ -415,19 +399,18 @@ a:focus {
   margin-top: 1em; 
 }
 
-.FormGroup  input{
+.FormGroup input{
   outline: none; 
   border: none; 
   background-color: #fff; 
   padding-left: 1,5em; 
   padding-right: 3em;
   border-radius: 17px; 
-  font-size: 20px; 
   color: #000; 
   height: 100%;
 }
 
-.FormGroup  button{
+.FormGroup button{
   position: absolute; 
   right: -10px; 
   top: 0; 
@@ -436,8 +419,6 @@ a:focus {
   outline: none; 
   color: #fff; 
   background-color: #262fec; 
-  font-size: 20px; 
-  font-weight: 500; 
   cursor: pointer; 
   border-bottom-left-radius: 16px; 
   border-bottom-right-radius: 16px; 

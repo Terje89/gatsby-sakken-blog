@@ -6,6 +6,11 @@ import Seo from "../components/seo"
 
 const NotFoundPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
+  const mixpanel = useContext(MixpanelContext);
+
+  useEffect(() => {
+    mixpanel.track('Viewed Page');
+  }, [mixpanel]);
 
   return (
     <Layout location={location} title={siteTitle}>

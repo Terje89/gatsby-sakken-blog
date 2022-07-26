@@ -28,12 +28,6 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-plugin-mixpanel',
-      options: {
-        apiToken: process.env.YOUR_MIXPANEL_API_TOKEN, // required
-      },
-    },
-    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [

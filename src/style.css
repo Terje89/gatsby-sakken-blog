@@ -331,3 +331,15 @@ a:focus {
     list-style-position: inside;
   }
 }
+
+/* newsletter */
+.CardContainer {
+  width: 1100px; 
+  height: 500px; 
+  display: flex; 
+  border-radius: 26px; 
+  position: relative; 
+  border: 2px solid #fff; 
+  background-color: rgba(255,255,255, 0.2); 
+  backdrop-filter: blur(10px);
+}

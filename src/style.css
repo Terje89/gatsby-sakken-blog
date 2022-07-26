@@ -358,3 +358,12 @@ a:focus {
     rgba(210,194,221,1) 100%
   );
 }
+
+.DetailsContaner {
+  height: 100%; 
+  display: flex; 
+  flex-direction: column; 
+  flex: 1; 
+  align-items: center; 
+  justify-content: center; 
+}

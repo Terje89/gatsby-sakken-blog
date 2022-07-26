@@ -1,4 +1,5 @@
 import * as React from "react"
+import { useContext, useEffect } from 'react';
 import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
@@ -7,7 +8,7 @@ import { MixpanelContext } from '../tracking';
 
 const NotFoundPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
-  const mixpanel = React.useContext(MixpanelContext);
+  const mixpanel = useContext(MixpanelContext);
 
   useEffect(() => {
     mixpanel.track('Viewed Page');

@@ -2,14 +2,20 @@
  import { useStaticQuery, graphql } from "gatsby"
  import { StaticImage } from "gatsby-plugin-image"
  import addToMailchimp from 'gatsby-plugin-mailchimp'
-
-
- const handleSubmit = async (e) => {
-    e.preventDefault();
-    const result = await addToMailchimp(email)
-  }
  
  const Newsletter = ({ magnetTitle, magnetDescription }) => {
+
+    super()
+    this.state = { email: "", result: null }
+    _handleSubmit = async e => {
+        e.preventDefault()
+        const result = await addToMailchimp(this.state.email)
+        this.setState({result: result})
+      }
+    handleChange = event => {
+        this.setState({ email: event.target.value })
+      }
+
    return (
      <div className="CardContainer">
         <div className="DetailsContainer">
@@ -17,11 +23,16 @@
                 <h2>{magnetTitle}</h2>
                 <p>{magnetDescription}</p>
                 <div className="FormGroup">
-                    <form       
-                    method="post"
-                    onSubmit={handleSubmit(email)}
-                    >
-                    <input type="text" placeholder="ola@nordmann.no" id="email"></input>
+                    <form onSubmit={_handleSubmit}>
+                    <input 
+                        id="outlined-email-input"
+                        label="Email"
+                        type="email"
+                        name="email"
+                        autoComplete="email"
+                        variant="outlined"
+                        onChange={handleChange}
+                    ></input>
                     <button>Ja! send meg en kopi</button>
                     </form>
                 </div>

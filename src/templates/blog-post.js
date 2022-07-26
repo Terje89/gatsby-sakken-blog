@@ -1,11 +1,10 @@
 import * as React from "react"
-import { useContext, useEffect } from 'react';
 import { Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import { MixpanelContext } from '../tracking';
+import mixpanel from 'mixpanel-browser';
 
 
 const BlogPostTemplate = ({ data, location }) => {
@@ -13,6 +12,8 @@ const BlogPostTemplate = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
 
+  mixpanel.init(rocess.env.YOUR_MIXPANEL_API_TOKEN, {debug: false}); 
+  mixpanel.track('Content Viewed');
 
   return (
     <Layout location={location} title={siteTitle}>

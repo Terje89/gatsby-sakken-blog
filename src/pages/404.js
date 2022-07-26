@@ -4,15 +4,13 @@ import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import { MixpanelContext } from '../tracking';
+import mixpanel from 'mixpanel-browser';
 
 const NotFoundPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
-  const mixpanel = useContext(MixpanelContext);
 
-  useEffect(() => {
-    mixpanel.track('Viewed Page');
-  }, [mixpanel]);
+  mixpanel.init(rocess.env.YOUR_MIXPANEL_API_TOKEN, {debug: false}); 
+  mixpanel.track('Content Viewed');
 
   return (
     <Layout location={location} title={siteTitle}>

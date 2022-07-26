@@ -30,9 +30,9 @@
                 <p>{magnetDescription}</p>
                 <>
                 {submitted ? (
-                    <FormGroup>
+                    <div className="FormGroup">
                     <p>Takk!</p>
-                    </FormGroup>
+                    </div>
                 ) : (
                 <div className="FormGroup">
                     <input 

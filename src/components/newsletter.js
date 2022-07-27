@@ -5,21 +5,28 @@
  
  const Newsletter = ({ magnetTitle, magnetDescription }) => {
     const [email, setEmail] = useState("")
-    const [submitted, setSubmitted] = useState(false)  
+    const [submitted, setSubmitted] = useState(false)
+    const [emailError, setEmailError] = useState('')  
 
     function errorHandling(data) {
         // your error handling
       }
       
       const handleSubmit = () => {
-        addToMailchimp(email).then((data) => {
+        const regex = /^(([^<>()[\]\.,;:\s@\"]+(\.[^<>()[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i;
+        if(!email || regex.test(email) === false){
+            setEmailError("hmm, det ser ikke ut som en gyldig epost")
+        }  else {
+            setEmailError("")
+            addToMailchimp(email).then((data) => {
     
-          if (data.result == "error") {
-            errorHandling(data)
-          } else {
-            setSubmitted(true)
-          }
-        })
+                if (data.result == "error") {
+                  errorHandling(data)
+                } else {
+                  setSubmitted(true)
+                }
+              })
+        }
       }
 
    return (
@@ -45,6 +52,7 @@
                         onChange={(e) => setEmail(e.target.value)}
                     ></input>
                     <button onClick={() => handleSubmit()}>Ja! send meg en kopi</button>
+                    <p>{emailError}</p>
                 </div>)}
                 </>
              </div>

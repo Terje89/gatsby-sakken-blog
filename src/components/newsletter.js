@@ -16,7 +16,7 @@
       const handleSubmit = () => {
         const regex = /^(([^<>()[\]\.,;:\s@\"]+(\.[^<>()[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i;
         if(!email || regex.test(email) === false){
-            setEmailError("Sikker på at du skrev inn en gylding epost? 🤔")
+            setEmailError("🤔 Det ser ikke ut som en gyldig adresse")
         }  else {
             addToMailchimp(email).then((data) => {
     
@@ -52,12 +52,13 @@
                         name="email"
                         autoComplete="email"
                         variant="outlined"
+                        placeholder="ola@nordman.no"
                         onChange={(e) => setEmail(e.target.value)}
                     ></input>
-                    <button onClick={() => handleSubmit()}>Ja! send meg en kopi</button>
+                    <button onClick={() => handleSubmit()}>Ja takk!</button>
                 </div>)}
                 </>
-                <p className="SubsmitError">{emailError}</p>
+                <p className="SubmitError">{emailError}</p>
              </div>
          </div>
          <div className="SideImageContainer">

@@ -401,6 +401,8 @@ a:focus {
   border-radius: 17px; 
   color: #000; 
   height: 100%;
+  border: 1px solid gray;
+  border-right: 0px;
 }
 
 .FormGroup button{

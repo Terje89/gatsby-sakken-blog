@@ -343,9 +343,10 @@ a:focus {
   width: 100%; 
   height: 350px; 
   display: flex; 
-  border-radius: 26px; 
+  border-top-right-radius: 26px;
+  border-bottom-left-radius: 26px;
   position: relative; 
-  border: 2px solid gray; 
+  border: 1px solid gray; 
   background-color: rgba(255,255,255, 0.2); 
 }
 
@@ -414,4 +415,9 @@ a:focus {
   cursor: pointer; 
   border-radius: 16px;
   padding: 0 10px;
+}
+
+.SubmitError {
+  margin-top: 10px;
+  color: #cf1414;
 }

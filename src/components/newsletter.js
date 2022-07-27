@@ -37,9 +37,7 @@
                 <p>{magnetDescription}</p>
                 <>
                 {submitted ? (
-                    <div className="FormGroup">
-                    <p>Takk!</p>
-                    </div>
+                    navigate("/ebok/")
                 ) : (
                 <div className="FormGroup">
                     <input 
@@ -52,9 +50,9 @@
                         onChange={(e) => setEmail(e.target.value)}
                     ></input>
                     <button onClick={() => handleSubmit()}>Ja! send meg en kopi</button>
-                    <p>{emailError}</p>
                 </div>)}
                 </>
+                <p>{emailError}</p>
              </div>
          </div>
          <div className="SideImageContainer">

@@ -16,6 +16,7 @@ const BlogPostTemplate = ({ data, location }) => {
       <Seo
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
+        someImage={post.frontmatter.someImage}
       />
       <article
         className="blog-post"

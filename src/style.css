@@ -421,3 +421,32 @@ a:focus {
   margin-top: 10px;
   color: #cf1414;
 }
+
+
+/*======================
+    404 page
+=======================*/
+
+
+.page_404{ padding:40px 0; background:#fff;
+}
+
+.page_404  img{ width:100%;}
+
+.four_zero_four_bg{
+ 
+ background-image: url(/src/images/error.gif);
+    height: 400px;
+    background-position: center;
+ }
+			 
+  .link_404{			 
+    border: none; 
+    outline: none; 
+    cursor: pointer; 
+    border-radius: 16px;
+    color: #fff; 
+    background-color: #005b99; 
+    margin: 20px 0;
+    display: inline-block;}
+	.contant_box_404{ margin-top:-50px;}

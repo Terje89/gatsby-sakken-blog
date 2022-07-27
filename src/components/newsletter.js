@@ -2,6 +2,7 @@
  import { useState } from "react";
  import { StaticImage } from "gatsby-plugin-image"
  import addToMailchimp from 'gatsby-plugin-mailchimp'
+ import { navigate } from "gatsby"
  
  const Newsletter = ({ magnetTitle, magnetDescription }) => {
     const [email, setEmail] = useState("")
@@ -15,9 +16,8 @@
       const handleSubmit = () => {
         const regex = /^(([^<>()[\]\.,;:\s@\"]+(\.[^<>()[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i;
         if(!email || regex.test(email) === false){
-            setEmailError("hmm, det ser ikke ut som en gyldig epost")
+            setEmailError("Sikker på at du skrev inn en gylding epost? 🤔")
         }  else {
-            setEmailError("")
             addToMailchimp(email).then((data) => {
     
                 if (data.result == "error") {
@@ -37,7 +37,12 @@
                 <p>{magnetDescription}</p>
                 <>
                 {submitted ? (
-                    navigate("/ebok/")
+                    navigate(
+                        "/ebok/",
+                        {
+                            state: { email },
+                        }
+                    )
                 ) : (
                 <div className="FormGroup">
                     <input 
@@ -52,7 +57,7 @@
                     <button onClick={() => handleSubmit()}>Ja! send meg en kopi</button>
                 </div>)}
                 </>
-                <p>{emailError}</p>
+                <p className="SubsmitError">{emailError}</p>
              </div>
          </div>
          <div className="SideImageContainer">

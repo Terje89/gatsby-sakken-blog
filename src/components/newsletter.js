@@ -37,12 +37,7 @@
                 <p>{magnetDescription}</p>
                 <>
                 {submitted ? (
-                    navigate(
-                        "/ebok/",
-                        {
-                            state: { email },
-                        }
-                    )
+                    <p>Supert! Jeg har sendt boken til din epost</p>>
                 ) : (
                 <div className="FormGroup">
                     <input 

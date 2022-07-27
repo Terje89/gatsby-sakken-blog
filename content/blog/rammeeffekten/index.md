@@ -11,17 +11,17 @@ magnetDescription: "Skriv inn din epost under så sender jeg deg et arbeidsark f
 
 Se for deg at du er i gang med å lage matpakke for barna. Du legger frem brødskivene, hiver på godt med smør, og innser alt for sent at du har godt tom for ost! Du hiver deg derfor i bilen og kjører til nærmeste Rema 1000. 
 
-Du parkerer bilen og småjogger bort til den plassen du vet de har osten, der du blir presentert med disse to innpakningene fra Synnøve: 
+Du parkerer bilen og småjogger bort til den plassen du vet de har osten. Der blir du presentert med disse to innpakningene fra Synnøve: 
 
-![](../rammeeffekten/tilbud.jpeg)
+![](../rammeeffekten/ost.jpeg)
 
 Hvilken en velger du? 
 
 Folk flest vil velge den til venstre, men hvorfor? 90% fettfri og 10% fett er jo akkurat den samme tingen. Selv om pakken med 10% fett har vært noen kroner billigere så har du nok uansett valgt den første.
 
-Så er vi lettlurt? Nei vi er ikke det, men måten vi blir presentert for informasjon har stor påvirkning på hvordan informasjonen oppfattes. Grunnen er at vår underbevissthet evaluerer og tar beslutninger basert på antagelser. 
+Måten vi blir presentert for informasjon har stor påvirkning på hvordan informasjonen oppfattes. Grunnen er at vår underbevissthet evaluerer og tar beslutninger basert på antagelser. 
 
-Når vi ser et maleri med en flott innramming vil vi umiddelbart anta at maleriet i selg selv må være av høyere kvalitet. Vi gjør det samme med tall, da høyere tall ofte betyr høyere verdi. 
+Når vi ser et maleri med en flott innramming vil vi umiddelbart anta at maleriet i selg selv må være av høyere kvalitet. Når vi ser et høyt tall tror vi at produktet må ha høyere verdi. Dette er rammeeffekten.
 
 ## “It’s toasted”
 
@@ -39,7 +39,7 @@ Når lederen påpeker at andre merkers sigaretter også er toasted, sier han: «
 
 ## Samme produkt, forskjellig oppfatning
 
-Rammeeffekten skjer når folk tar forskjellige beslutninger basert på forskjellige innramminger, uansett om resultatet av beslutningen er det samme.
+Rammeeffekten beskriver at folk tar forskjellige beslutninger basert på forskjellige innramminger, uansett om resultatet av beslutningen er det samme.
 
 Don Draper fokuserte folks oppmerksomhet på et irrelevant aspekt ved sigarettene. Slik at de ikke lenger tenker på om de er farlig eller ikke. 
 
@@ -48,6 +48,34 @@ Don Draper fokuserte folks oppmerksomhet på et irrelevant aspekt ved sigaretten
 Hverdagen vår er full av slike rammer, og hjernen vår er helt avhengig av de for å ta beslutninger. Hva du sier er derfor ikke like viktig som hvordan du sier det.
 
 > Hva du sier er *ikke* like viktig som hvordan du sier det.
+
+## Hvorfor har de fleste bilreklamer svarte, grå eller hvite biler?
+
+Tenk på det neste gang du ser på tv. Majoriteten av alle bilreklamene viser biler som er en variasjon av svart, grå eller hvit. 
+
+Farger kan på samme måte som tall og ord brukes til å skape nye kvaliteter og unike perspektiver. Disse påvirker igjen folks beslutningsprosess. 
+
+Så hvorfor disse fargene? Fordi de er nøytral. 
+
+Hvilken farge som benyttes på et produkt har en betydelig effekt på hvordan folk tolker og oppfatter produktet. En gul Audi har nøyaktig den samme kvaliteten som en svart, men en slik ramme vil ikke appellere til store deler av markedet. Nøytrale farger gjør det motsatte. 
+
+![](../rammeeffekten/dove.jpeg)
+
+Tror du bildet med rosa bakgrunn vil ha solgt like mange som den med hvit? 
+
+Samme produkt, forskjellig oppfatning. 
+
+## Er glasset halvfullt eller halvtomt?
+
+Halvfullt eller halvtomt, begge påstandende er sanne, men med en negativ ramme vil folk si at det er halvtomt. Med en positiv ramme vil folk si at det er halvfullt. 
+
+![](../rammeeffekten/glass.png)
+
+Negative rammer er fungerer godt til å skape hastverk og konvertere salg. "Siste sjanse!", "Få igjen på lager", "7 andre er også i gang med å kjøpe dette produktet". 
+
+Positive rammer fungerer bedre til å overbevise. For eksempel er pasienter mer mottakelig for kirurgi når det er 90 prosent sjanse for å overleve enn 10 prosent sjanse for å dø. 
+
+Det mange markedsførere gjør er å slå sammen en negative og positiv ramme. "Høyere kolestrol øker sjansen for hjerteinfarkt (negativ ramme), men du kan redusere ditt kolestrol med vårt produkt X (positiv ramme)". Presenter først problemet, derreter løsningen. Klassisk markedsføring.
 
 ## Rammeeffekten og markedsføring
 

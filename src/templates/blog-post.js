@@ -91,6 +91,7 @@ export const pageQuery = graphql`
         date(formatString: "DD.MM.YYYY")
         description
         timeToRead
+        someImage
         magnetTitle
         magnetDescription
       }

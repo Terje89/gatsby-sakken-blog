@@ -73,8 +73,6 @@ Rammer kan ha både positive og negative effekter. De påvirker vår beslutnings
 
 Generelt sett er positive rammer best til å overbevise, mens negative er best til å konvertere salg. 
 
-![](../rammeeffekten/glass.png)
-
 *Er glasset halvfullt eller halvtomt?*
 
 Positive og negative rammer kan også slås sammen. For eksempel: "Bensinprisene kommer bare til å øke og øke fremover (negativ ramme), men hvis du kjøper denne elektriske bilen så vil du spare masse penger (positiv ramme)".
@@ -125,5 +123,4 @@ Dette er makten til rammeeffekten.
 [^1]: https://journals.sagepub.com/doi/abs/10.1111/1467-9280.00424?casa_token=OFcP8Kbj1aoAAAAA%3A_y1nExXTFzB4v3_mvRsIqiqEI7Ri1oEDTtiXDR0oAmN-MUuwWlTa27_54YFsASeI0FDWur5ts0dD&
 [^2]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3652505/#A8469R10
 [^3]: https://www.deweycolorsystem.com/wp-content/uploads/2020/06/Credentials-Color-Psychology.pdf
-
 [^4] : https://hbswk.hbs.edu/item/the-subconscious-mind-of-the-consumer-and-how-to-reach-it

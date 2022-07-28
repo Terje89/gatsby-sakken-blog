@@ -2,7 +2,7 @@
 title: "Hva du sier er ikke like viktig som hvordan du sier det"
 date: "2022-07-18"
 description: "Intro her"
-timeToRead: "6"
+timeToRead: "7"
 someImage: "https://sakken.me/rammeeffekten/tilbud-li.jpeg"
 magnetTitle: "Før du går..."
 magnetDescription: "Skriv inn din epost under så sender jeg deg et arbeidsark for å lære mer om rammeeffekten 👇👇👇"
@@ -21,7 +21,7 @@ Folk flest vil velge den til venstre, men hvorfor? 90% fettfri og 10% fett er jo
 
 Måten vi blir presentert for informasjon har stor påvirkning på hvordan informasjonen oppfattes. Grunnen er at vår underbevissthet evaluerer og tar beslutninger basert på antagelser. 
 
-Når vi ser et maleri med en flott innramming vil vi umiddelbart anta at maleriet i selg selv må være av høyere kvalitet. Når vi ser et høyt tall tror vi at produktet må ha høyere verdi. Dette er rammeeffekten.
+Når vi ser et maleri med en flott innramming vil vi umiddelbart anta at maleriet i selg selv må være av høyere kvalitet. Når vi ser et høyt tall tror vi at produktet må ha høyere verdi[^1]. Dette er rammeeffekten.
 
 ## “It’s toasted”
 
@@ -43,7 +43,7 @@ Rammeeffekten beskriver at folk tar forskjellige beslutninger basert på forskje
 
 Don Draper fokuserte folks oppmerksomhet på et irrelevant aspekt ved sigarettene. Slik at de ikke lenger tenker på om de er farlig eller ikke. 
 
-90% fettfri i stedet for 10% fett fokuserer folks oppmerksomhet på et høyere tall slik at den opplevde verdien økes. Samme produkt, men forskjellig oppfatning. 
+90% fettfri i stedet for 10% fett fokuserer folks oppmerksomhet på et høyere tall slik at den opplevde verdien økes[^2]. Samme produkt, men forskjellig oppfatning. 
 
 Hverdagen vår er full av slike rammer, og hjernen vår er helt avhengig av de for å ta beslutninger. Hva du sier er derfor ikke like viktig som hvordan du sier det.
 
@@ -57,25 +57,40 @@ Farger kan på samme måte som tall og ord brukes til å skape nye kvaliteter og
 
 Så hvorfor disse fargene? Fordi de er nøytral. 
 
-Hvilken farge som benyttes på et produkt har en betydelig effekt på hvordan folk tolker og oppfatter produktet. En gul Audi har nøyaktig den samme kvaliteten som en svart, men en slik ramme vil ikke appellere til store deler av markedet. Nøytrale farger gjør det motsatte. 
+Hvilken farge som benyttes på et produkt har en betydelig effekt på hvordan folk tolker og oppfatter produktet[^3]. En gul Audi har nøyaktig den samme kvaliteten som en svart, men en slik ramme vil ikke appellere til store deler av markedet. Nøytrale farger gjør det motsatte. 
 
 ![](../rammeeffekten/dove.jpeg)
 
-Tror du bildet med rosa bakgrunn vil ha solgt like mange som den med hvit? 
+*Tror du bildet med rosa bakgrunn vil ha solgt like mange som den med hvit?* 
 
-Samme produkt, forskjellig oppfatning. 
+## 90 prosent sjanse for å overleve eller 10 prosent sjanse for å dø?
 
-## Er glasset halvfullt eller halvtomt?
+Tenk på hva som skjer når du er i gang med å kjøpe en ny bil. Det er så mange faktorer du må tenke på. Pris, sikkerhet, kvalitet, bensin, elektrisk... 
 
-Halvfullt eller halvtomt, begge påstandende er sanne, men med en negativ ramme vil folk si at det er halvtomt. Med en positiv ramme vil folk si at det er halvfullt. 
+Når du drar til nærmeste bilforhandler så *kan* de gi deg alle fakta om bilen du ser på, men det er ikke bare en dårlig salgspitch. Det fungerer ganske sikkert mot sin hensikt. Det er mye enklere å bare presentere noen positive fakta om bilen, slik at du er mindre sannsynlig til å fokusere på de negative.
+
+Rammer kan ha både positive og negative effekter. De påvirker vår beslutningsprosess ved å kaste et positivt lys over negative aspekter, og skaper hastverk og konvertere salg med å fokusere på negative aspekter. "*Vi har bare en av denne bilen tilgjengelig, og det er X antall andre som også er interessert*."
+
+Generelt sett er positive rammer best til å overbevise, mens negative er best til å konvertere salg. 
 
 ![](../rammeeffekten/glass.png)
 
-Negative rammer er fungerer godt til å skape hastverk og konvertere salg. "Siste sjanse!", "Få igjen på lager", "7 andre er også i gang med å kjøpe dette produktet". 
+*Er glasset halvfullt eller halvtomt?*
 
-Positive rammer fungerer bedre til å overbevise. For eksempel er pasienter mer mottakelig for kirurgi når det er 90 prosent sjanse for å overleve enn 10 prosent sjanse for å dø. 
+Positive og negative rammer kan også slås sammen. For eksempel: "Bensinprisene kommer bare til å øke og øke fremover (negativ ramme), men hvis du kjøper denne elektriske bilen så vil du spare masse penger (positiv ramme)".
 
-Det mange markedsførere gjør er å slå sammen en negative og positiv ramme. "Høyere kolestrol øker sjansen for hjerteinfarkt (negativ ramme), men du kan redusere ditt kolestrol med vårt produkt X (positiv ramme)". Presenter først problemet, derreter løsningen. Klassisk markedsføring.
+Presenter først problemet, derreter løsningen. Klassisk markedsføring.
+
+### Eksempler på positive og negative rammer
+
+* Du har 90 prosent sjanse for å overleve (positiv ramme)
+* Du har 10 prosent sjanse for å dø (negativ ramme)
+
+* Tre av fire kunder anbefaler produkt X (positiv ramme)
+* En av fire anbefaler ikke produkt X (negativ ramme)
+
+* Hvis du kjøper aksje Y nå så kan du få en avkastning på 50%! (positiv ramme)
+* Hvis du kjøper aksje Y så kan du tape 100%! (negativ ramme)
 
 ## Rammeeffekten og markedsføring
 
@@ -83,7 +98,7 @@ Når vi bruker rammeeffekten i markedsføring hjelper vi hjernen til vår målgr
 
 Målet er at underbevisstheten til vår målgruppe skal kunne ta beslutninger uten at beviste delen av hjernen blandes inn. 
 
-99% av alle beslutninger tas ubevist(kilde), og det er en massiv fordel hvis vi kan ramme inn vårt budskap slik at det havner innunder denne gruppen. 
+95% av alle kjøpsbeslutninger tas ubevist[^4], og det er en massiv fordel hvis vi kan ramme inn vårt budskap slik at det havner innunder denne gruppen. 
 
 ### Hvordan bruke rammeeffekten
 
@@ -105,3 +120,10 @@ Alle disse sier den sammen tingen, men de *føles* forskjellig.
 
 Dette er makten til rammeeffekten.
 
+## Kilder
+
+[^1]: https://journals.sagepub.com/doi/abs/10.1111/1467-9280.00424?casa_token=OFcP8Kbj1aoAAAAA%3A_y1nExXTFzB4v3_mvRsIqiqEI7Ri1oEDTtiXDR0oAmN-MUuwWlTa27_54YFsASeI0FDWur5ts0dD&
+[^2]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3652505/#A8469R10
+[^3]: https://www.deweycolorsystem.com/wp-content/uploads/2020/06/Credentials-Color-Psychology.pdf
+
+[^4] : https://hbswk.hbs.edu/item/the-subconscious-mind-of-the-consumer-and-how-to-reach-it

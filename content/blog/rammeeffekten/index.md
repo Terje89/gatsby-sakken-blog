@@ -124,5 +124,5 @@ Dette er makten til rammeeffekten.
 
 [^1]: https://journals.sagepub.com/doi/abs/10.1111/1467-9280.00424?casa_token=OFcP8Kbj1aoAAAAA%3A_y1nExXTFzB4v3_mvRsIqiqEI7Ri1oEDTtiXDR0oAmN-MUuwWlTa27_54YFsASeI0FDWur5ts0dD&
 [^2]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3652505/#A8469R10
-[^3]: https://www.deweycolorsystem.com/wp-content/uploads/2020/06/Credentials-Color-Psychology.pdf
-[^4] : https://hbswk.hbs.edu/item/the-subconscious-mind-of-the-consumer-and-how-to-reach-it
+[^3]: https://www.deweycolorsystem.com/wp-content/uploads/2020/06/Credentials-Color-Psychology.pdf 
+[^4]: https://hbswk.hbs.edu/item/the-subconscious-mind-of-the-consumer-and-how-to-reach-it

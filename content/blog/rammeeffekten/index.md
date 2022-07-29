@@ -1,11 +1,11 @@
 ---
-title: "Hva du sier er ikke like viktig som hvordan du sier det"
+title: "Rammeeffekten: Hva du sier er ikke like viktig som hvordan du sier det"
 date: "2022-07-18"
-description: "Hvordan er det mulig at folk tar forskjellige beslutninger basert på forskjellige rammer, uansett om resultatet av beslutningen er det samme?"
+description: "10% fett eller 90% fettfri? Majoriteten velger den første, men hvorfor?"
 timeToRead: "7"
-someImage: "https://sakken.me/rammeeffekten/tilbud-li.jpegß"
+someImage: "https://sakken.me/rammeeffekten/tilbud-li.jpeg"
 magnetTitle: "Før du går..."
-magnetDescription: "Skriv inn din epost under så sender jeg deg et arbeidsark for å lære mer om rammeeffekten 👇👇👇"
+magnetDescription: "Her må jeg skrive en tekst👇👇👇"
 
 ---
 
@@ -39,7 +39,7 @@ Når lederen påpeker at andre merkers sigaretter også er toasted, sier han: «
 
 ## Samme produkt, forskjellig oppfatning
 
-Rammeeffekten beskriver at folk tar forskjellige beslutninger basert på forskjellige innramminger, uansett om resultatet av beslutningen er det samme.
+Rammeeffekten sier at folk tar forskjellige beslutninger basert på forskjellige innramminger, uansett om resultatet av beslutningen er det samme.
 
 Don Draper fokuserte folks oppmerksomhet på et irrelevant aspekt ved sigarettene. Slik at de ikke lenger tenker på om de er farlig eller ikke. 
 
@@ -65,17 +65,21 @@ Hvilken farge som benyttes på et produkt har en betydelig effekt på hvordan fo
 
 ## 90 prosent sjanse for å overleve eller 10 prosent sjanse for å dø?
 
-Tenk på hva som skjer når du er i gang med å kjøpe en ny bil. Det er så mange faktorer du må tenke på. Pris, sikkerhet, kvalitet, bensin, elektrisk... 
+Se for deg at du sitter på legekontoret. Du venter nervøst mens legen forteller deg om en operasjonen du burde ha. 
 
-Når du drar til nærmeste bilforhandler så *kan* de gi deg alle fakta om bilen du ser på, men det er ikke bare en dårlig salgspitch. Det fungerer ganske sikkert mot sin hensikt. Det er mye enklere å bare presentere noen positive fakta om bilen, slik at du er mindre sannsynlig til å fokusere på de negative.
+Etter en lang forklaring på hvorfor du må ha denne operasjonen konkluderer legen med at det ikke er veldig stor risiko. Hele 90% av alle pasienter lever fem år etter denne prosedyren! (positiv ramme)
 
-Rammer kan ha både positive og negative effekter. De påvirker vår beslutningsprosess ved å kaste et positivt lys over negative aspekter, og skaper hastverk og konvertere salg med å fokusere på negative aspekter. "*Vi har bare en av denne bilen tilgjengelig, og det er X antall andre som også er interessert*."
+I et alternativ univers sitter du også på legekontoret og venter nervøst mens legen forteller deg om operasjonen du burde ha. 
+
+Etter en lang forklaring på hvorfor du må ha denne operasjonen konkluderer legen med at det ikke er veldig stor risiko. Bare 10% av alle pasienter dør innen fem år etter denne prosedyren! (negativ ramme)
+
+Hvilke av disse versjonene tror du har overbevist deg til å gjennomføre prosedyren? 
+
+![](../rammeeffekten/doctor.jpeg)
+
+Rammer kan ha både positive og negative effekter. Positive rammer påvirker vår beslutningsprosess ved å kaste et positivt lys over negative aspekter, Negative rammer påvirker med å skape hastverk: "*Vi har bare ett av dette hotellrommet tilgjengelig, og det er X antall andre som også ser på dette rommet nå*."
 
 Generelt sett er positive rammer best til å overbevise, mens negative er best til å konvertere salg. 
-
-![](../rammeeffekten/glass.png)
-
-*Er glasset halvfullt eller halvtomt?*
 
 Positive og negative rammer kan også slås sammen. For eksempel: "Bensinprisene kommer bare til å øke og øke fremover (negativ ramme), men hvis du kjøper denne elektriske bilen så vil du spare masse penger (positiv ramme)".
 
@@ -83,14 +87,18 @@ Presenter først problemet, derreter løsningen. Klassisk markedsføring.
 
 ### Eksempler på positive og negative rammer
 
-* Du har 90 prosent sjanse for å overleve (positiv ramme)
-* Du har 10 prosent sjanse for å dø (negativ ramme)
-
-* Tre av fire kunder anbefaler produkt X (positiv ramme)
-* En av fire anbefaler ikke produkt X (negativ ramme)
-
-* Hvis du kjøper aksje Y nå så kan du få en avkastning på 50%! (positiv ramme)
-* Hvis du kjøper aksje Y så kan du tape 100%! (negativ ramme)
+> * Du har 90 prosent sjanse for å overleve (positiv ramme)
+> * Du har 10 prosent sjanse for å dø (negativ ramme)
+>
+> 
+>
+> * Tre av fire kunder anbefaler produkt X (positiv ramme)
+> * En av fire anbefaler ikke produkt X (negativ ramme)
+>
+> 
+>
+> * Hvis du kjøper aksje Y nå så kan du få en avkastning på 50%! (positiv ramme)
+> * Hvis du kjøper aksje Y så kan du tape 100%! (negativ ramme)
 
 ## Rammeeffekten og markedsføring
 

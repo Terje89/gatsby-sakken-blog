@@ -1,24 +1,14 @@
-\---
-
-title: "Primingeffekten"
-
+---
+title: "Primingeffekten: Hva du sier er ikke like viktig som hvordan du sier det"
 date: "2022-07-18"
-
 description: "10% fett eller 90% fettfri? Majoriteten velger den første, men hvorfor?"
-
 timeToRead: "7"
-
 someImage: "https://sakken.me/rammeeffekten/tilbud-li.jpeg"
-
 magnetTitle: "Før du går..."
-
 magnetDescription: "Her må jeg skrive en tekst👇👇👇"
 
 
-
-\---
-
-
+---
 
 Primingeffekten
 
@@ -114,7 +104,7 @@ Eksempel om font
 
 Tenk at du skal lage en rabatt på flere av dine produkter. Du må først finne ut hvor mye avslag du kan gi og hvor mye penger du kan bruke på markedsføring. 
 
-Det neste steget blir så å fortelle målgruppen om avslaget. Du presenterer derfor tilbudet med så stor skrift som mulig slik at det skal trekke oppmerksomheten til dine kunder. Alt dette virker rasjonelt. 
+Det neste steget blir så å fortelle målgruppen om avslaget. Du presenterer derfor tilbudet med så stor skrift som mulig slik at det skal trekke oppmerksomheten til dine kunder. Alt dette virker logisk. 
 
 Men her er problemet: hjernen til dine kunder lager en assosiasjon som er helt motsatt fra det vi logisk sett mener gir mest mening. 
 
@@ -124,19 +114,39 @@ La meg hvis deg hvordan dette fungerer:
 
 ![](../primingeffekten/liten_font.jpeg)
 
-Hvilken en ser du på først? Se så hva som skjer når vi bruker tall: 
+Hvilken ser du på først?
+
+Se så hva som skjer når vi bruker tall: 
 
 ![](../primingeffekten/stor_font.jpeg)
 
-Dette er hvordan majoriteten av bedrifter presenterer sine tilbud. *Føles* ikke den nye prisen her større? Så til det motsatte: 
+Dette er hvordan majoriteten av bedrifter presenterer sine tilbud. *Føles* ikke den nye prisen her større? 
+
+Så det motsatte: 
 
 ![](../primingeffekten/liten_pris.jpeg)
 
-Samme tall. Samme rekkefølge. Samme font. Men når de presenteres på denne måten så føles det forskjellig. Den nye prisen *føles* mindre. 
+Samme tall. Samme rekkefølge. Samme font. Men når de presenteres på denne måten så føles det forskjellig. 
 
-Dette fungerer på grunn av hvor direkte underbevisstheten er. Forskning viser at når konsepter assosiert med "liten" eller "lav" kobles til pris, vil det påvirke vår oppfatning av prisen og sannsynligheten for at vi kjøper (kilde). Denne effekten kan påvirke salg med så mye som 28% (kilde).
+Den nye prisen *føles* mindre. 
 
-Stor skriftstørrelse = høy pris. Liten skriftstørrelse = lav pris. 
+Forskning viser at når konsepter assosiert med "liten" eller "lav" kobles til pris, vil det påvirke vår oppfatning av prisen og sannsynligheten for at vi kjøper (kilde). Denne effekten kan påvirke salg med så mye som 28% (kilde).
+
+
+
+---
+
+
+
+Tenkt derfor på de de mest bokstavlige assosiasjonene hjernen kan lage neste gang du annonserer et tilbud. Representerer alle elementene budskapet du ønsker å kommunisere? 
+
+
+
+
+
+Når du vurderer hvordan du skal bruke skrifttype og størrelse, ta et skritt tilbake og tenk på den mest bokstavelige assosiasjonen hjernen kan lage. Hvis du koker det ned til de minste elementene, er de som kommuniserer det større budskapet?
+
+
 
 
 

@@ -10,9 +10,21 @@ magnetDescription: "Her må jeg skrive en tekst👇👇👇"
 
 ---
 
-Primingeffekten
+La meg starte med et eksempel som viser hvordan primingeffekten fungerer i markedsføring. 
+
+* Bedre intro
+
+![](../primingeffekten/riktig_navn.jpeg)
+
+Prøv så denne:
+
+![](../primingeffekten/feil_navn.jpeg)
 
 * Eksempel på priming
+
+*youtube: EUA4Q5aoG74*
+
+
 
 Visual primes
 
@@ -146,7 +158,9 @@ Tenkt derfor på de de mest bokstavlige assosiasjonene hjernen kan lage neste ga
 
 Når du vurderer hvordan du skal bruke skrifttype og størrelse, ta et skritt tilbake og tenk på den mest bokstavelige assosiasjonen hjernen kan lage. Hvis du koker det ned til de minste elementene, er de som kommuniserer det større budskapet?
 
+Tilslutt: 
 
+*youtube: EUA4Q5aoG74*
 
 
 

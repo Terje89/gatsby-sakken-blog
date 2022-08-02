@@ -10,21 +10,27 @@ magnetDescription: "Her må jeg skrive en tekst👇👇👇"
 
 ---
 
-La meg starte med et eksempel som viser hvordan primingeffekten fungerer i markedsføring. 
+La oss starte med et eksempel på hva primingeffekten er i stedet for en lengre definisjon. Les teksten som står på bildet nedenfor 👇
 
-* Bedre intro
+![](../primingeffekten/stroop.jpeg)
 
-![](../primingeffekten/riktig_navn.jpeg)
+Er det ikke vanskeligere å lese ordene på den andre linjen?
 
-Prøv så denne:
+Grunnen er at teksten ikke stemmer overens med informasjonen som formidles. Når du leser ordet "grønn", men fargen er BLÅ så stemmer ikke dette med det hjernen forventer. 
 
-![](../primingeffekten/feil_navn.jpeg)
+Objektivt gir ikke dette mening. Ordene på bildet formidler den samme informasjonen uavhengig av fargene som benyttes. Men ordet BLÅ får deg til å tenke på BLÅ, og det inkluderer også andre ting som er BLÅ. 
 
-* Eksempel på priming
+Siden du nå har lest blå flere ganger så er underbevisstheten din i gang med å lage assosiasjoner. Blå himmel, blå strand, blått basseng.
 
-*youtube: EUA4Q5aoG74*
+Og siden du nå leste disse ordene er du sannsynligvis mer mottakelig for ideen om ferie. Selv om du ikke er klar over det selv. 
+
+![](../primingeffekten/vacation.jpeg)
 
 
+
+`youtube: EUA4Q5aoG74`
+
+ 
 
 Visual primes
 

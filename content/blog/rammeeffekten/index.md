@@ -115,7 +115,7 @@ Dette er makten til rammeeffekten.
 
 ## Kilder
 
-[^1]: [Perspective in Statements of Quantity, with Implications for Consumer Psychology]:https://journals.sagepub.com/doi/abs/10.1111/1467-9280.00424?casa_token=OFcP8Kbj1aoAAAAA%3A_y1nExXTFzB4v3_mvRsIqiqEI7Ri1oEDTtiXDR0oAmN-MUuwWlTa27_54YFsASeI0FDWur5ts0dD&
-[^2]:[Five Different Types of Framing Effects in Medical Situation: A Preliminary Exploration]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3652505/#A8469R10
-[^3]: [Color Psychology: Effects of Perceiving Color on Psychological Functioning in Humans]:https://www.deweycolorsystem.com/wp-content/uploads/2020/06/Credentials-Color-Psychology.pdf 
-[^4]: [The Subconscious Mind of the Consumer (And How To Reach It)]:https://hbswk.hbs.edu/item/the-subconscious-mind-of-the-consumer-and-how-to-reach-it
+[^1]: [Perspective in Statements of Quantity, with Implications for Consumer Psychology](https://journals.sagepub.com/doi/abs/10.1111/1467-9280.00424?casa_token=OFcP8Kbj1aoAAAAA%3A_y1nExXTFzB4v3_mvRsIqiqEI7Ri1oEDTtiXDR0oAmN-MUuwWlTa27_54YFsASeI0FDWur5ts0dD&)
+[^2]:[Five Different Types of Framing Effects in Medical Situation: A Preliminary Exploration](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3652505/#A8469R10)
+[^3]: [Color Psychology: Effects of Perceiving Color on Psychological Functioning in Humans](https://www.deweycolorsystem.com/wp-content/uploads/2020/06/Credentials-Color-Psychology.pdf) 
+[^4]: [The Subconscious Mind of the Consumer (And How To Reach It)](https://hbswk.hbs.edu/item/the-subconscious-mind-of-the-consumer-and-how-to-reach-it)

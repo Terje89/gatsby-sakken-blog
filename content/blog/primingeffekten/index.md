@@ -1,7 +1,7 @@
 ---
-title: "Primingeffekten: Vi ser med hjernen, ikke øynene"
+title: "Primingeffekten: Du ser med hjernen, ikke øynene"
 date: "2022-07-18"
-description: "Er det ikke vanskeligere å lese ordene på den andre linjen?"
+description: "Blir du ikke påvirket av reklame? Jeg garanterer at du tar *helt feil!*"
 timeToRead: "4"
 someImage: "https://sakken.me/rammeeffekten/tilbud-li.jpeg"
 magnetTitle: "Før du går..."
@@ -32,7 +32,7 @@ Det neste steget blir så å fortelle målgruppen om avslaget. Du presenterer de
 
 Men her er problemet: hjernen til dine kunder lager en assosiasjon som er helt motsatt fra det vi logisk sett mener gir mest mening. 
 
-Når vi blir presentert med flere tall samtidig vil vår underbevistheten bruke *størrelsen* på tallene til å bestemme hvem av dem som er best(kilde). 
+Når vi blir presentert med flere tall samtidig vil vår underbevistheten bruke *størrelsen* på tallene til å bestemme hvem av dem som er best[^1]. 
 
 La meg hvis deg hvordan dette fungerer: 
 
@@ -108,7 +108,7 @@ Se gjerne filmen under for enda et eksempel på primingeffekten. Den varer neste
 
 ## Kilder
 
-[^1]: [Size Does Matter: The Effects of Magnitude Representation Congruency on Price Perceptions and COULTER AND COULTER SIZE DOES MATTER Purchase Likelihood]: https://production.wordpress.uconn.edu/businessmarketing/wp-content/uploads/sites/724/2014/08/size-does-matter.pdf
-[^2]: [What do eye movements tell us about patients with neurological disorders?]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5790757/
-[^3]: [Automatic Effects of Brand Exposure on Motivated Behavior: How Apple Makes You “Think Different”]:https://faculty.fuqua.duke.edu/~gavan/bio/GJF_articles/apple_ibm_jcr_08.pdf
-[^4]: [Red Bull “Gives You Wings” for better or worse: A double-edged impact of brand exposure on consumer performance]:https://www.sciencedirect.com/science/article/abs/pii/S1057740810001257
+[^1]: [Size Does Matter: The Effects of Magnitude Representation Congruency on Price Perceptions and COULTER AND COULTER SIZE DOES MATTER Purchase Likelihood](https://production.wordpress.uconn.edu/businessmarketing/wp-content/uploads/sites/724/2014/08/size-does-matter.pdf)
+[^2]: [What do eye movements tell us about patients with neurological disorders?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5790757/)
+[^3]: [Automatic Effects of Brand Exposure on Motivated Behavior: How Apple Makes You “Think Different”](https://faculty.fuqua.duke.edu/~gavan/bio/GJF_articles/apple_ibm_jcr_08.pdf)
+[^4]: [Red Bull “Gives You Wings” for better or worse: A double-edged impact of brand exposure on consumer performance](https://www.sciencedirect.com/science/article/abs/pii/S1057740810001257)

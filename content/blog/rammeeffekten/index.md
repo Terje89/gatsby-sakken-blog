@@ -85,21 +85,6 @@ Positive og negative rammer kan også slås sammen. For eksempel: "Bensinprisene
 
 Presenter først problemet, derreter løsningen. Klassisk markedsføring.
 
-### Eksempler på positive og negative rammer
-
-> * Du har 90 prosent sjanse for å overleve (positiv ramme)
-> * Du har 10 prosent sjanse for å dø (negativ ramme)
->
-> 
->
-> * Tre av fire kunder anbefaler produkt X (positiv ramme)
-> * En av fire anbefaler ikke produkt X (negativ ramme)
->
-> 
->
-> * Hvis du kjøper aksje Y nå så kan du få en avkastning på 50%! (positiv ramme)
-> * Hvis du kjøper aksje Y så kan du tape 100%! (negativ ramme)
-
 ## Rammeeffekten og markedsføring
 
 Når vi bruker rammeeffekten i markedsføring hjelper vi hjernen til vår målgruppe med å evaluere og sammenligne. 
@@ -130,7 +115,7 @@ Dette er makten til rammeeffekten.
 
 ## Kilder
 
-[^1]: https://journals.sagepub.com/doi/abs/10.1111/1467-9280.00424?casa_token=OFcP8Kbj1aoAAAAA%3A_y1nExXTFzB4v3_mvRsIqiqEI7Ri1oEDTtiXDR0oAmN-MUuwWlTa27_54YFsASeI0FDWur5ts0dD&
-[^2]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3652505/#A8469R10
-[^3]: https://www.deweycolorsystem.com/wp-content/uploads/2020/06/Credentials-Color-Psychology.pdf 
-[^4]: https://hbswk.hbs.edu/item/the-subconscious-mind-of-the-consumer-and-how-to-reach-it
+[^1]: [Perspective in Statements of Quantity, with Implications for Consumer Psychology]:https://journals.sagepub.com/doi/abs/10.1111/1467-9280.00424?casa_token=OFcP8Kbj1aoAAAAA%3A_y1nExXTFzB4v3_mvRsIqiqEI7Ri1oEDTtiXDR0oAmN-MUuwWlTa27_54YFsASeI0FDWur5ts0dD&
+[^2]:[Five Different Types of Framing Effects in Medical Situation: A Preliminary Exploration]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3652505/#A8469R10
+[^3]: [Color Psychology: Effects of Perceiving Color on Psychological Functioning in Humans]:https://www.deweycolorsystem.com/wp-content/uploads/2020/06/Credentials-Color-Psychology.pdf 
+[^4]: [The Subconscious Mind of the Consumer (And How To Reach It)]:https://hbswk.hbs.edu/item/the-subconscious-mind-of-the-consumer-and-how-to-reach-it

@@ -1,8 +1,8 @@
 ---
-title: "Primingeffekten: Hva du sier er ikke like viktig som hvordan du sier det"
+title: "Primingeffekten: Vi ser med hjernen, ikke øynene"
 date: "2022-07-18"
-description: "10% fett eller 90% fettfri? Majoriteten velger den første, men hvorfor?"
-timeToRead: "7"
+description: "Er det ikke vanskeligere å lese ordene på den andre linjen?"
+timeToRead: "4"
 someImage: "https://sakken.me/rammeeffekten/tilbud-li.jpeg"
 magnetTitle: "Før du går..."
 magnetDescription: "Her må jeg skrive en tekst👇👇👇"
@@ -16,109 +16,15 @@ La oss starte med et eksempel på hva primingeffekten er i stedet for en lengre 
 
 Er det ikke vanskeligere å lese ordene på den andre linjen?
 
-Grunnen er at teksten ikke stemmer overens med informasjonen som formidles. Når du leser ordet "grønn", men fargen er BLÅ så stemmer ikke dette med det hjernen forventer. 
+Grunnen er at teksten ikke stemmer overens med informasjonen som formidles. Når du leser ordet "grønn", men fargen er blå så stemmer ikke dette med det hjernen forventer. 
 
-Objektivt gir ikke dette mening. Ordene på bildet formidler den samme informasjonen uavhengig av fargene som benyttes. Men ordet BLÅ får deg til å tenke på BLÅ, og det inkluderer også andre ting som er BLÅ. 
+Objektivt gir ikke dette mening. Ordene på bildet formidler den samme informasjonen uavhengig av fargene som benyttes. Men ordet blå får deg til å tenke på blå, og det inkluderer også andre ting som er blå.
 
-Siden du nå har lest blå flere ganger så er underbevisstheten din i gang med å lage assosiasjoner. Blå himmel, blå strand, blått basseng.
+Siden du nå har lest blå flere ganger så er underbevisstheten din i gang med å lage assosiasjoner. Blå himmel, blå strand, kanskje et blått basseng?
 
-Og siden du nå leste disse ordene er du sannsynligvis mer mottakelig for ideen om ferie. Selv om du ikke er klar over det selv. 
+Og siden du nå leste disse ordene er du sannsynligvis mer mottakelig for ideen om ferie. Selv om du ikke er klar over det selv.
 
-![](../primingeffekten/vacation.jpeg)
-
-
-
-`youtube: EUA4Q5aoG74`
-
- 
-
-Visual primes
-
-* Hjerner vår scanner sine omgivelser kontinuerlig.
-  * Mens du leste denne setningen scannet øynene dine omgivelsene minst X sekunder
-    * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5790757/
-* Vi er ikke klar over det, men øynene våres beveger seg kontinuerlig. 
-  * Rundt tre ganger i sekunder gjennomsnitt
-  * Og sjekker omgivelsene for trusler og farer
-
-* Hvis det ikke er noe farlig på gang så sendes det ikke noe alarm til den beviste delen av hjernen
-  * Siden den ikke trenger å vite om det
-  * MEN, det betyr ikke at informasjonen ikke påvirker vår oppførsel 
-
-* Dette er grunnen til at priming fungerer.
-  * Og er også grunnen til at folk som sier at de ikke bryr seg om annonser eller ikke legger til reklamer tar feil.
-
-* Se for deg at du leser en artikkel mens du venter på at din kaffe blir ferdig. 
-  * Du er ikke klar over det, men artikkelen du leste hadde flere annonser for made up bedrifter.
-* Hvis jeg spør deg om det etterpå så er du mer sannsynlig til å kjenne igjen eller velge disse merkene, selv om du ikke husker å ha sett de tidligere. 
-  * https://hbr.org/2007/03/getting-attention-for-unrecognized-brands
-
-* Den underbeviste delen av hjernen evaluerer kontinuerlig denne typen informasjon, selv om det aldri blir eskalert til din bevisthet.
-  * Men når hjernen vil ha en distraksjon, eller noe spennende skjer? Da legger du merke til det 
-
-* Har du noen ganger lært deg ett nytt ord, bare for å så legge merke til dette ordet overalt de neste dagene? 
-  * Hva er grunnen til dette? Vi blir jo bombadert med ord hele tiden
-* Grunnen er at hjernen vår evaluerer hundre tusenvis av ord, men ignorerer de fleste.
-  * Ikke noe annet ord var viktig nok til å få oppmerksomhet fra den beviste delen av hjernen
-* Dette er også grunnen til at hvis du nettopp har kjøpt deg en Telsa, så starter du å legge merke til alle andre Tesla overalt.
-  * De var der bestandig fra tidligere, men de var aldri viktig nok til å bli eskalert. 
-  * Men nå har hjernen lært seg at tesla er viktig, så det må esklaeres!
-
-Syn skjer i øynene, men hva ser skjer i hjernen // Vi ser med hjernen, ikke øynene 
-
-https://theconversation.com/how-do-our-brains-reconstruct-the-visual-world-49276
-
-* Vår synsans skjer med øynene, men hva vi ser skjer med i hjernen.
-
-
-
-* Vi har utviklet oss til å både kunne fokusere på noe samtidig som vi kontinuerlig scanner omgivelsene for trusler/viktig informasjon. 
-  * Hjernen vår fletter sammen det som egentlig er stillbilder, og kobler sammen manglende biter slik at vi opplever en jevn begevelsesflyt
-* Den forutser hva som mangler, slik at vi opplever våre omgivelser som konstant. 
-
-* Dette er også grunnen til at vi ikke liker endring. 
-  * Hjernens jobb er å holde oss i livet gjennom å evaluere så mye som mulig gjennom sitt regelsett.
-* Så selv om dine kunder ikke legger merke til en annonse eller et bilde, så kan du vedde på at det likevel påvirker deres oppførsel
-
-* Eksempel med logo
-  * https://faculty.fuqua.duke.edu/~gavan/bio/GJF_articles/apple_ibm_jcr_08.pdf
-* Mer kreativ når de fikk sett Apple sin logo i stedet for IBM
-  * De som så Disney sin logo var også mer ærlig 
-
-Et bilde er bedre enn tusen ord, men en sterk merkevare har tusen minner 
-
-Lyder
-
-* Forskjellige følelser kan trigges av lyder for å påvirke folks oppførsel
-  * http://belzludovic.free.fr/nolwenn/Kotler%20-%20Atmospherics%20as%20a%20marketing%20tool%20%20%28cit%C3%A9%20171%29%20-%201973.pdf
-* La oss si at du eier en resturant
-  * Skal du spille raskt eller rolig musikk?
-* Avhenig av hva din strategi er 
-  * Hvis ditt mål er at dine kunder skal bli ferdig så raskt som mulig så burde du spille rask musikk. 
-* Hvis du derimot vil at de skal ta sin tid og bestille så mye som mulig så burde du spile rolig musikk
-  * https://www.researchgate.net/publication/233231739_The_Effects_of_Background_Music_on_Consumer_Responses_in_a_High-end_Supermarket
-* Det er derfor så viktig å forstå hvordan du tjener penger, slik at du kan trykke på de riktige knappene
-
-* Ikke undervurder dette punktet. 
-  * Studier viser at når det spiller bakgrunnsmusikk som passer inn med merkevaren
-    * Så vil tiden i butikken øke med så mye som 22 minutter
-
-* Dette fungerer også online
-  * Ebay gjennomføre en undersøkelse der de fant at de som hørte på popmusikk og saklige samtaler (fotball kommentarer, økonomiske rapporter) gjorde på gjennomsnitt bedre kjøp.
-  * De som hørte på klassisk musikk overvurderte verdien av produktene de kjøpte med ca 5%. 
-    * https://www.ebayinc.com/stories/press-room/uk/radio-chatter-and-football-the-sounds-that-help-us-shop/
-
-Kan du hold denne?
-
-* Holde kals vs varm kaffe
-  * Når de senere deltok i studien fikk de som oppgaver å lese en historie om en person.
-  * De som før ble spurt om å hold en varm kaffe rangerte denne personen som betydelig varmere enn de som holdte iskaffe. 
-  * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2737341/
-* Så en helt urealisert hendelse påvirket deres senere oppførsel. 
-  * Poenget her er hvor direkte hjernen assosierer forskjellige konsepter.
-    * Kald drikke = kalde hender = kald personlighet. 
-
-Eksempel om font
+### Så hvorfor er dette et viktig konsept for markedsføring? 
 
 Tenk at du skal lage en rabatt på flere av dine produkter. Du må først finne ut hvor mye avslag du kan gi og hvor mye penger du kan bruke på markedsføring. 
 
@@ -148,50 +54,61 @@ Samme tall. Samme rekkefølge. Samme font. Men når de presenteres på denne må
 
 Den nye prisen *føles* mindre. 
 
-Forskning viser at når konsepter assosiert med "liten" eller "lav" kobles til pris, vil det påvirke vår oppfatning av prisen og sannsynligheten for at vi kjøper (kilde). Denne effekten kan påvirke salg med så mye som 28% (kilde).
+Forskning viser at når konsepter assosiert med "liten" eller "lav" kobles til pris, vil det påvirke vår oppfatning av prisen og sannsynligheten for at vi kjøper[^1]. 
 
+## Vi ser med hjernen, ikke øynene
 
+Dette er primingeffekten. Vår underbevissthet reagerer på informasjon som igjen påvirker fremtidige valg. 
+
+Hjernen har utviklet seg til å både kunne fokusere på noe samtidig som den scanner omgivelsene for trusler/viktig informasjon. Du har for eksempel ubevist scannet omgivelsene minst tre ganger når du leste denne setningen [^2]. 
+
+Hvis det ikke er noe farlig/viktig på gang så blir informasjonen aldri eskalert til den beviste delen av hjernen. Men selv om den aldri blir eskalert så kan du vedde på at informasjonen likevel påvirker folks oppførsel. 
+
+Dette er grunnen til at priming fungerer. 
+
+Det er også grunnen til at folk som sier at de ikke blir påvirket av reklamer tar *helt* *feil*. 
+
+## Et bilde sier mer enn tusen ord, men en merkevare har mer enn tusen assosiasjoner 
+
+Tror du en logo kan påvirke din oppførsel? Hva med en logo som blinker inn og ut så raskt at du ikke legger merke til den? 
+
+I en studie ble deltakerne vist en video som blinket inn og ut med en kjent merkevare på 30 millisekunder. Ingen av deltakerne la merke til eller var klar over at dette skjedde. 
+
+Studien viste at deltakerne som ble vist Apple sin logo ble mer kreativ i sine oppgaver enn de som ble vist IBM. De som ble vist Disney sin logo ble mer ærlig [^3].
+
+![](../primingeffekten/apple.jpeg)
+
+En annen studie satte deltakerne til å spille et bilspill der bilene de fikk tildelt enten var dekorert med merkevaren til Red Bull, Coca-Cola, Guinness eller Tropicana. Ellers var bilene helt identisk. Samme modell, farger og ytelse. 
+
+Så hvilken effekt tror du dette hadde på deltakerne? 
+
+De som kjørte bilen med Red Bull sin merkevare kjørte mer aggressivt, raskere og tok flere risikoer. Red Bull "ga de vinger" [^4].
+
+![](../primingeffekten/red-bull.png)
+
+## Primingeffekten og markedsføring
+
+Alle disse eksemplene kan oppsummeres på en måte: **alt har en betydning.**
+
+Dette gjelder ikke bare de ordene, lydene og bildene vi bruker, men også det målgruppen gjør rett før de treffer våre annonser. 
+
+Et fellestrekk i alle studiene sitert i denne artikkelen er at ingen av deltakerne trodde de ble påvirket. 
+
+Dette er grunnen til at primingeffekten (og andre effekter innen adferdsøkonomi) er så kritisk viktig å forstå for vår markedsføring. Folk vil aldri klare å si hva de faktisk vil gjøre eller hva som påvirker deres valg. 
+
+> Folk vil aldri klare å si hva de vil gjøre eller hva som påvirker deres valg. 
+
+Tenk derfor på de mest bokstavelige assosiasjonene hjernen lager når den ser din markedsføring. Representerer alle elementene budskapet du ønsker å kommunisere? Kok det ned til de minste detaljene og se om de formidler det samme budskapet. 
 
 ---
 
+Se gjerne filmen under for enda et eksempel på primingeffekten. Den varer nesten 7 minutter, men hvis du likte eksemplene over så kommer du til å elske denne 👇
 
+`youtube: EUA4Q5aoG74`
 
-Tenkt derfor på de de mest bokstavlige assosiasjonene hjernen kan lage neste gang du annonserer et tilbud. Representerer alle elementene budskapet du ønsker å kommunisere? 
+## Kilder
 
-
-
-
-
-Når du vurderer hvordan du skal bruke skrifttype og størrelse, ta et skritt tilbake og tenk på den mest bokstavelige assosiasjonen hjernen kan lage. Hvis du koker det ned til de minste elementene, er de som kommuniserer det større budskapet?
-
-Tilslutt: 
-
-*youtube: EUA4Q5aoG74*
-
-
-
-https://production.wordpress.uconn.edu/businessmarketing/wp-content/uploads/sites/724/2014/08/size-does-matter.pdf
-
-
-
-* Dette gjelder også for bilder, lyder og lukter. 
-  * Selv noe så enkelt som skriftstørrelse har blitt bevist til å påvirke (liten skriftstørrelse = liten pris
-    * https://www.inc.com/melina-palmer/the-font-size-on-your-price-tags-could-be-reducing-your-sales-by-28-percent-heres-how-to-fix-it.html)
-
-* Skrifttype kan endre hvordan du føler om det du leser. Bilde av en person som drikker en kald drikke i din markedsføring kan få folk til å ignorere deg
-  * Det er derfor priming er viktig.
-    * Er det ikke mye bedre å tenke på innvirkningen av bildene, teksten og lydene du bruker før du bruker dem? 
-
-Priming og markedsføring
-
-* Dette kan oppsummeres på en måte: Alt har en betydning
-  * Dette gjelder ord og bilder på vår markedsføring, og hva vår målgruppe gjorde rett før de traff vårt materiell.
-* Vi kan derfor ikke kontrollere alt sammen, men det er likevel viktig å se på de elementene vi kan kontrollere 
-
-* En av de viktigste poengene med priming er at på tvers av alle studiene jeg har sitert her, så sa alle deltakerne at de ikke ble påvirket. 
-  * Eller at de ikke la merke til noe som helst forskjellig
-* Det er derfor det er så kritisk å forstå dette konseptet i vår markedsføring.
-  * Folk kan ikke fortelle deg hva de kommer til å gjøre og hva som påvirker deres valg. 
-
-Prøv det selv
-
+[^1]: [Size Does Matter: The Effects of Magnitude Representation Congruency on Price Perceptions and COULTER AND COULTER SIZE DOES MATTER Purchase Likelihood]: https://production.wordpress.uconn.edu/businessmarketing/wp-content/uploads/sites/724/2014/08/size-does-matter.pdf
+[^2]: [What do eye movements tell us about patients with neurological disorders?]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5790757/
+[^3]: [Automatic Effects of Brand Exposure on Motivated Behavior: How Apple Makes You “Think Different”]:https://faculty.fuqua.duke.edu/~gavan/bio/GJF_articles/apple_ibm_jcr_08.pdf
+[^4]: [Red Bull “Gives You Wings” for better or worse: A double-edged impact of brand exposure on consumer performance]:https://www.sciencedirect.com/science/article/abs/pii/S1057740810001257

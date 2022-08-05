@@ -8,3 +8,18 @@ import "./src/style.css"
 
 // Highlighting for code blocks
 import "prismjs/themes/prism.css"
+
+import React from 'react';
+import mixpanel from 'mixpanel-browser';
+
+import { MixpanelContext } from './src/tracking';
+
+export const wrapRootElement = ({ element }) => {
+  mixpanel.init(process.env.MIXPANEL_PROJECT_TOKEN);
+
+  return (
+    <MixpanelContext.Provider value={mixpanel}>
+      {element}
+    </MixpanelContext.Provider>
+  );
+};

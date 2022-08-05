@@ -1,4 +1,5 @@
 import * as React from "react"
+import { useEffect } from "react";
 import { Link, graphql } from "gatsby"
 import mixpanel from 'mixpanel-browser';
 
@@ -10,8 +11,10 @@ const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
 
-  mixpanel.init(process.env.MIXPANEL_PROJECT_TOKEN); 
-  mixpanel.track('Viewed Archive');
+  useEffect(() => {
+    mixpanel.init(process.env.MIXPANEL_PROJECT_TOKEN); 
+    mixpanel.track('Viewed Archive');
+  }, []);
 
   if (posts.length === 0) {
     return (

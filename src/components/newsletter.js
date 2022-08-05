@@ -7,7 +7,8 @@
  const Newsletter = ({ magnetTitle, magnetDescription }) => {
     const [email, setEmail] = useState("")
     const [submitted, setSubmitted] = useState(false)
-    const [emailError, setEmailError] = useState('')  
+    const [emailError, setEmailError] = useState('') 
+    const mixpanel = useMixpanel() 
 
     function errorHandling(data) {
         // your error handling

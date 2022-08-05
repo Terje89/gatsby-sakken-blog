@@ -66,7 +66,7 @@ Hvor godt et produkt gjorde det i markedet virket å ha veldig lite å gjøre me
 
 Dette skurret veldig. "If you build it, they will come" var i starten en av mine fundamentale antagelser.
 
-Hvis du bygger et problem som løser din målgruppes problemer (+ litt markedsføring) så vil resten bare gå av seg selv. Ikke sant? 
+Hvis du bygger et produkt som løser din målgruppes problem (+ litt markedsføring) så vil resten bare gå av seg selv. Ikke sant? 
 
 Men det var vist ikke så enkelt. 
 

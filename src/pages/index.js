@@ -1,21 +1,17 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
-import { useContext, useEffect } from 'react';
+import { useMixpanel } from 'gatsby-plugin-mixpanel'
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import { MixpanelContext } from '../components/tracking';
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
-  const mixpanel = useContext(MixpanelContext);
+  const mixpanel = useMixpanel()
 
-  useEffect(() => {
-    mixpanel.track('Viewed Archive');
-  }, [mixpanel]);
-
+  mixpanel.track('Viewed Archive');
 
   if (posts.length === 0) {
     return (

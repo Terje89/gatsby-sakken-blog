@@ -2,7 +2,7 @@
  import { useState } from "react";
  import { StaticImage } from "gatsby-plugin-image"
  import addToMailchimp from 'gatsby-plugin-mailchimp'
- import { navigate } from "gatsby"
+ import { useMixpanel } from 'gatsby-plugin-mixpanel'
  
  const Newsletter = ({ magnetTitle, magnetDescription }) => {
     const [email, setEmail] = useState("")
@@ -19,6 +19,12 @@
             setEmailError("🤔 Det ser ikke ut som en gyldig adresse")
         }  else {
             addToMailchimp(email).then((data) => {
+
+                mixpanel.track('Form Submitted', {
+                  'type': 'Lead Magnet',
+                  'title': magnetTitle,
+                });
+                mixpanel.identify(email);
     
                 if (data.result == "error") {
                   errorHandling(data)

@@ -13,7 +13,7 @@ const BlogIndex = ({ data, location }) => {
   const mixpanel = useMixpanel()
 
   useEffect(() => {
-    mixpanel.track('Viewed Archive');
+    mixpanel.track('Viewed Homepage');
   }, []);
 
   if (posts.length === 0) {

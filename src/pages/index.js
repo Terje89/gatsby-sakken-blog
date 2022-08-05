@@ -1,6 +1,6 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
-import { useMixpanel } from 'gatsby-plugin-mixpanel'
+import mixpanel from 'mixpanel-browser';
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -9,8 +9,8 @@ import Seo from "../components/seo"
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
-  const mixpanel = useMixpanel()
 
+  mixpanel.init(process.env.MIXPANEL_PROJECT_TOKEN); 
   mixpanel.track('Viewed Archive');
 
   if (posts.length === 0) {

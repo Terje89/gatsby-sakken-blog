@@ -28,12 +28,6 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-plugin-mixpanel',
-      options: {
-        apiToken: process.env.MIXPANEL_PROJECT_TOKEN, // required
-      },
-    },
-    {
       resolve: 'gatsby-plugin-mailchimp',
       options: {
           endpoint: 'https://sakken.us8.list-manage.com/subscribe/post?u=4f65809c451ebbdc73b136683&amp;id=544a0ca845', // string; add your MC list endpoint here; see instructions below

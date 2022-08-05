@@ -1,4 +1,5 @@
 import * as React from "react"
+import { useEffect } from "react";
 import { Link, graphql } from "gatsby"
 import { useMixpanel } from 'gatsby-plugin-mixpanel'
 
@@ -15,7 +16,7 @@ const BlogPostTemplate = ({ data, location }) => {
 
   useEffect(() => {
     mixpanel.track('Viewed Content', {
-      'title': post.frontmatter.title
+      'title': post.frontmatter.title,
     });
   }, []);
 

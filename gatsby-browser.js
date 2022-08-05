@@ -12,7 +12,7 @@ import "prismjs/themes/prism.css"
 import React from 'react';
 import mixpanel from 'mixpanel-browser';
 
-import { MixpanelContext } from './src/tracking';
+import { MixpanelContext } from './src/components/tracking';
 
 export const wrapRootElement = ({ element }) => {
   mixpanel.init(process.env.MIXPANEL_PROJECT_TOKEN);

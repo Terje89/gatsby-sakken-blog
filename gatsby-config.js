@@ -21,6 +21,12 @@ module.exports = {
       },
     },
     {
+      resolve: 'gatsby-plugin-mixpanel',
+      options: {
+        apiToken: process.env.MIXPANEL_PROJECT_TOKEN, // required
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,

@@ -2,7 +2,7 @@
 title: "En blogg om adferdsøkonomi: Hvorfor og hvordan hjernen kjøper"
 date: "2022-07-18"
 description: "Hvordan bestemmer folk hva de liker og ikke liker? Hvorfor sier de en ting, men snur seg så rundt å gjør noe helt annet?"
-timeToRead: "3"
+timeToRead: "6"
 someImage: "https://sakken.me/rammeeffekten/tilbud-li.jpeg"
 magnetTitle: "Før du går..."
 magnetDescription: "Her må jeg skrive en tekst👇👇👇"
@@ -23,7 +23,7 @@ Hvis du er lik meg så skaper dette spørsmålet en liten eksistensielt krise...
 
 Hvordan kan jeg da med handen på hjertet si at jeg er en markedsfører? 
 
-![Charles M. Schultz’ Charlie Brown, fra Peanuts Cartoons](../adferdsokonomi/charles.jpeg) 
+![Charles M. Schultz’ Charlie Brown, fra Peanuts Cartoons](../en-blogg-om-adferdsokonomi/charles.jpeg) 
 
 Heldigvis er ikke alt helt svart. 
 
@@ -80,7 +80,7 @@ Jeg har i flere år vært fascinert over dette fagfeltet, men for en eller annen
 
 Jeg kjøpte derfor alt jeg kunne av bøker, meldte meg på alle mulige nyhetsbrev og hørte på alle podcaster jeg kunne finne. Jeg har nå endelig svar på noen av de spørsmålene som har rullet rundt i hodet de siste årene. 
 
-Med alt dette i bakhodet valgte jeg å starte denne bloggen. For å formidle det jeg har lært, med håpet av at noen andre også finner dette nytting. 
+Med alt dette i bakhodet valgte jeg å starte denne bloggen. For å formidle det jeg har lært, med håpet av at noen andre også finner dette nyttig. 
 
 Målet er å publisere en artikkel i uken. Meld deg på mitt nyhetsbrev under hvis du vil få en e-post når jeg publiserer 👇
 

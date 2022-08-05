@@ -33,10 +33,10 @@ Denne blogger kommer for det meste til å handle om dette. **Hvorfor og hvordan 
 
 Mitt mål er å:
 
-* Forklare hvordan hjernen tar beslutninger.
-* Introdusere viktige konsepter innen adferdsøkonomi.
-* Vise deg hvordan dette kan og blir brukt innen markedsføring. 
-* Publisere nytt innlegg hver fredag. 
+> * Forklare hvordan hjernen tar beslutninger.
+> * Introdusere viktige konsepter innen adferdsøkonomi.
+> * Vise deg hvordan dette kan og blir brukt innen markedsføring. 
+> * Publisere nytt innlegg hver fredag. 
 
 Jeg kommer *ikke* til å gå dypt ned i spesifikke markedstaktikker. Hvis dette er din ting så finnes det utallige blogger som forklarer disse bedre enn det jeg er i stand til. 
 
@@ -52,6 +52,8 @@ Jeg har i flere år jobbet som konsulent, der jeg har vært med og ledet flere s
 
 Grunnen til at jeg har hengt meg opp i hvordan man kommunisere og overbevise andre mennesker kommer fra en ekkel magefølelse jeg har hatt over en lengre periode. 
 
+### If you build it, they will come
+
 Jeg er flink til å designe (teknisk design) og lede utvikling av digitale produkter: nettsider, apper, webapper. Dette var dette jeg originalt tenkte at jeg skulle bygge min karriere på. 
 
 Men etter jeg har vært med på denne prosessen ganske mange ganger startet jeg å legge merke til noe rart. 
@@ -64,7 +66,7 @@ Hvis du bygger et problem som løser din målgruppes problemer så vil resten ba
 
 Men det var vist ikke så enkelt. 
 
----
+### Fra produktutvikling til markedsføring
 
 Som konsulent så kunne jeg bare ha ristet på hodet og ignorert problemet. Jeg har jo levert produktet de betalte for, ikke mitt problem at ingen gidder å bruke det. 
 
@@ -75,6 +77,8 @@ Denne mistanken tok meg over til markedsføring der jeg har brukt flere år på 
 Annet fagfelt, men samme problem. Jeg ble flinkere til å nå ut til folk, men klarte fremdeles ikke å svare på hvorfor folk sier de skal gjøre en ting, bare for å så gjøre det stikk motsatte. 
 
 En dag mens jeg satte hjemme på pappaperm med min sønn og hørte på [Freakonomics](https://freakonomics.com/series/freakonomics-radio/) slo det meg at kanskje jeg burde sette meg inn i adferdsøkonomi. 
+
+### Enter adferdsøkonomi
 
 Jeg har i flere år vært fascinert over dette fagfeltet, men for en eller annen grunn har jeg aldri trukket en parallell mellom mitt yrke og adferdsøkonomi. 
 

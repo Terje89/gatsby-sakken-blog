@@ -26,6 +26,10 @@
                   'title': magnetTitle,
                 });
                 mixpanel.identify(email);
+                mixpanel.people.set({
+                  "User Type": 'Subscriber',
+                  "$email": email
+                });
     
                 if (data.result == "error") {
                   errorHandling(data)

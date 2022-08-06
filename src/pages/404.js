@@ -10,9 +10,9 @@ const NotFoundPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
   const mixpanel = useMixpanel()
 
-  useEffect(() => {
-    mixpanel.track('Viewed Homepage');
-  }, []);
+  mixpanel.track('Viewed Content', {
+    'title': "404 Page",
+  });
 
   return (
     <Layout location={location} title={siteTitle}>

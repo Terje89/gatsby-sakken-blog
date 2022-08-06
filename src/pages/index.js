@@ -13,7 +13,9 @@ const BlogIndex = ({ data, location }) => {
   const mixpanel = useMixpanel()
 
   useEffect(() => {
-    mixpanel.track('Viewed Homepage');
+    mixpanel.track('Viewed Content', {
+      'title': "Homepage",
+    });
   }, []);
 
   if (posts.length === 0) {

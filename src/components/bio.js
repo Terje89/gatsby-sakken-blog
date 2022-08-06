@@ -47,7 +47,7 @@ const Bio = () => {
       </Link>
       {author?.name && (
         <p>
-          Skrevet av  <Link to="/terje"><strong>{author.name}</strong> {author?.summary || null}</Link>
+          Skrevet av  <Link to="/en-blogg-om-adferdsokonomi/"><strong>{author.name}</strong> {author?.summary || null}</Link>
           {` `}
           <br />
           <a href={`https://www.linkedin.com/in/${social?.linkedin || ``}`}>

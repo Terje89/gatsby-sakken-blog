@@ -26,7 +26,7 @@ Dette er også hvordan hjernen vår fungerer.
 
 ## To systemer
 
-I boken "Thinking fast and slow" definerer nobelprisvinner Daniel Kahneman hjernens to systemer som system en og system to.
+I boken "Thinking fast and slow" definerer nobelprisvinner Daniel Kahneman hjernens to systemer som:
 
 **System en (underbevisstheten)**
 Dette systemet reagerer veldig raskt, og kan behandle enorme mengder informasjon på en gang. 
@@ -35,8 +35,6 @@ Dette systemet reagerer veldig raskt, og kan behandle enorme mengder informasjon
 Den er mye tregere, og kan håndtere veldig lite informasjon på en gang. 
 
 Eller sagt på en annen måte: system en er assistenten, system to er toppsjefen.  
-
-![System en er som Homer Simpsons, system to er som Mr. Spock](../menneskehjernen/to_systemer.jpeg)
 
 Så hvorfor er dette relevant til markedsføring? 
 
@@ -47,6 +45,10 @@ Og det som gjør det enda verre? Assistenten snakker ikke samme språk som topps
 Dette er grunnen til at folk sier de vil kjøpe ditt produkt, bare for å si nei takk når du gir de muligheten. 
 
 Dette er også grunnen til at de ikke klarer å forklare hvorfor når du spør om de var dritings forrige gang dere snakket sammen.
+
+![System en er som Homer Simpsons, system to er som Mr. Spock](../menneskehjernen/to_systemer.jpeg)
+
+*99% av våre beslutniger tas av Homer Simpson, bare 1% tas av Spoc*k
 
 ## Hjernen og markedsføring
 

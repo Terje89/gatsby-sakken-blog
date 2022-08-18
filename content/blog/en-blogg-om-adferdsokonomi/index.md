@@ -88,7 +88,7 @@ En dag mens jeg satte hjemme på pappaperm med min sønn og hørte på [Freakono
 
 Jeg har i flere år vært fascinert over dette fagfeltet, men for en eller annen grunn har jeg aldri trukket en parallell mellom dette og mitt yrke. 
 
-Jeg kjøpte derfor alt jeg kunne av bøker, meldte meg på alle mulige nyhetsbrev og hørte på alle podcaster jeg kunne finne. 
+Jeg kjøpte derfor alt jeg kunne av bøker og leste alle forskningsartikler jeg fant på Google Scholar.
 
 Og jeg har nå endelig svar på noen av de spørsmålene som har rullet rundt i hodet de siste årene. 
 

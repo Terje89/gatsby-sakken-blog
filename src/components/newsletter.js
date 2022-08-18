@@ -23,7 +23,10 @@
         } else if (!name){
             setNameError("🤔 Du må skrive inn ditt fornavn")
       }  else {
-            const listFields = { "FNAME" : name }
+            const listFields = { 
+              "FNAME" : name ,
+              "TYPE" : "Lead Magnet"
+            }
             addToMailchimp(email, listFields).then((data) => {
 
                 mixpanel.track('Form Submitted', {

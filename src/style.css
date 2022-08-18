@@ -379,6 +379,10 @@ a:focus {
   max-width: 80%; 
 }
 
+.InnterContainer p {
+  margin-bottom: 0px;
+}
+
 .InnterContainer h2 {
   margin-top: 0px; 
   color: #005b99; 

@@ -1,11 +1,11 @@
 ---
 title: "En blogg om adferdsøkonomi"
-date: "2022-07-18"
+date: "2022-08-18"
 description: "Hvordan bestemmer folk hva de liker og ikke liker? Hvorfor sier de en ting, men snur seg så rundt å gjør noe helt annet?"
 timeToRead: "6"
 someImage: "https://sakken.me/rammeeffekten/tilbud-li.jpeg"
-magnetTitle: "Før du går..."
-magnetDescription: "Her må jeg skrive en tekst👇👇👇"
+magnetTitle: "Hei 👋👋👋 Før du går..."
+magnetDescription: "Meld deg på mitt nyhetsbrev! Nye innlegg hver fredag, rett i din innboks 💌"
 
 ---
 

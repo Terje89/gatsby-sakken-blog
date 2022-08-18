@@ -389,7 +389,7 @@ a:focus {
   display: flex; 
   flex-direction: column;
   position: relative; 
-  height: 53px; 
+  height: 150px; 
   margin-top: 1em; 
 }
 
@@ -403,6 +403,7 @@ a:focus {
   color: #000; 
   height: 100%;
   border: 1px solid gray;
+  margin-bottom: 5px;;
 }
 
 .FormGroup button{

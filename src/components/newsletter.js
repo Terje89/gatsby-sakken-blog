@@ -54,7 +54,7 @@
                 <p>{magnetDescription}</p>
                 <>
                 {submitted ? (
-                    <p>Supert! Jeg har sendt boken til din epost</p>
+                    <p>Takk! 🥰</p>
                 ) : (
                 <div className="FormGroup">
                     <input 
@@ -77,10 +77,10 @@
                         placeholder="Epost"
                         onChange={(e) => setEmail(e.target.value)}
                     ></input>
-                    <button onClick={() => handleSubmit()}>Ja takk!</button>
+                    <button onClick={() => handleSubmit()}>Meld meg på!</button>
                 </div>)}
                 </>
-                <p className="SubmitError">{emailError}</p>
+                <p className="SubmitError">{emailError}{nameError}</p>
              </div>
          </div>
          <div className="SideImageContainer">

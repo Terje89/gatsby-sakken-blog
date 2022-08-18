@@ -28,6 +28,7 @@
     "gatsby-remark-embed-video": "^3.2.1",
     "gatsby-plugin-mailchimp": "^5.2.2",
     "gatsby-plugin-mixpanel": "^3.7.0",
+    "gatsby-plugin-sitemap": "^5.22.0-next.1",
     "prismjs": "^1.28.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",

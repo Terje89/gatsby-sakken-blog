@@ -4,7 +4,7 @@ date: "2022-08-19"
 description: "10% fett eller 90% fettfri? Majoriteten velger den første, men hvorfor?"
 timeToRead: "7"
 someImage: "https://sakken.me/rammeeffekten/tilbud-li.jpeg"
-magnetTitle: "Hei 👋👋👋 Før du går..."
+magnetTitle: "👋👋👋 Før du går..."
 magnetDescription: "Meld deg på mitt nyhetsbrev! Nye innlegg hver fredag, rett i din innboks 💌"
 
 ---

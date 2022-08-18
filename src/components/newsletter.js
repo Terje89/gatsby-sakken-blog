@@ -6,8 +6,10 @@
  
  const Newsletter = ({ magnetTitle, magnetDescription }) => {
     const [email, setEmail] = useState("")
+    const [name, setName] = useState("")
     const [submitted, setSubmitted] = useState(false)
-    const [emailError, setEmailError] = useState('') 
+    const [emailError, setEmailError] = useState('')
+    const [nameError, setNameError] = useState('')  
     const mixpanel = useMixpanel() 
 
     function errorHandling(data) {
@@ -18,7 +20,10 @@
         const regex = /^(([^<>()[\]\.,;:\s@\"]+(\.[^<>()[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i;
         if(!email || regex.test(email) === false){
             setEmailError("🤔 Det ser ikke ut som en gyldig adresse")
-        }  else {
+        } else if (!name){
+            setNameError("🤔 Du må skrive inn ditt fornavn")
+      }  else {
+            const listFields = { "FNAME" : name }
             addToMailchimp(email).then((data) => {
 
                 mixpanel.track('Form Submitted', {
@@ -28,7 +33,8 @@
                 mixpanel.identify(email);
                 mixpanel.people.set({
                   "User Type": 'Subscriber',
-                  "$email": email
+                  "$email": email,
+                  "$first_name" : name
                 });
     
                 if (data.result == "error") {
@@ -53,12 +59,22 @@
                 <div className="FormGroup">
                     <input 
                         id="outlined-email-input"
+                        label="Fornavn"
+                        type="fname"
+                        name="fname"
+                        autoComplete="fname"
+                        variant="outlined"
+                        placeholder="Fornavn"
+                        onChange={(e) => setName(e.target.value)}
+                    ></input>
+                    <input 
+                        id="outlined-email-input"
                         label="Email"
                         type="email"
                         name="email"
                         autoComplete="email"
                         variant="outlined"
-                        placeholder="ola@nordman.no"
+                        placeholder="Epost"
                         onChange={(e) => setEmail(e.target.value)}
                     ></input>
                     <button onClick={() => handleSubmit()}>Ja takk!</button>

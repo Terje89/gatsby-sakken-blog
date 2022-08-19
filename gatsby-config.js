@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Sakken`,
     author: {
-      name: `Terje Sakariassen`,
+      name: `Terje H. Sakariassen`,
       summary: ``,
     },
     description: `En blogg som handler om noe.`,

@@ -35,7 +35,7 @@ Han foreslår derfor at de annonserer Lucky Strike som «toasted».
 
 Når lederen påpeker at andre merkers sigaretter også er toasted, sier han: «No, everybody else’s tobacco is poisonous. Lucky Strike is toasted.»
 
-`youtube: E0L8f1IY1Vk`
+`youtube: I372T6M5Ur4`
 
 ## Samme produkt, forskjellig oppfatning
 

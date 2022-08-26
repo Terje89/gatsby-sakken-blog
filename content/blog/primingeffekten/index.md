@@ -32,7 +32,7 @@ Det neste steget blir så å fortelle målgruppen om avslaget. Du presenterer de
 
 Men her er problemet: hjernen til dine kunder lager en assosiasjon som er helt motsatt fra det vi logisk sett mener gir mest mening. 
 
-Når vi blir presentert med flere tall samtidig vil vår underbevistheten bruke *størrelsen* på tallene til å bestemme hvem av dem som er best[^1]. 
+Når vi blir presentert med flere tall samtidig vil vår underbevistheten bruke *skriftstørrelsen* på tallene til å bestemme hvem av dem som er best[^1]. 
 
 La meg hvis deg hvordan dette fungerer: 
 

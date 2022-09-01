@@ -17,7 +17,7 @@ Butikken fanget oppmerksomhet siden den så veldig dyrere ut enn alle de andre b
 
 Det første jeg la merke til når jeg gikk inn i lokalene var at de hadde mistenkelig lite klær til å være en klesbutikk, og heller ingen kasse der jeg kunne betale. 
 
-<img src="../ankringseffekten/fry.jpeg" style="zoom: 67%;" />
+<img src="../ankringseffekten/fry.jpeg" style="zoom: 50%;" />
 
 De hadde i stedet bare noen få skjorter som var presentert på en måte som gjorde det helt umulig å ikke legge merke til dem.
 

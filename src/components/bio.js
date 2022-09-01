@@ -33,7 +33,7 @@ const Bio = () => {
 
   return (
     <div className="bio">
-      <Link to="/terje">
+      <Link to="/en-blogg-om-adferdsokonomi/">
       <StaticImage
         className="bio-avatar"
         layout="fixed"

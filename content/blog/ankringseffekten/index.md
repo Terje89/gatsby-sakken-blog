@@ -71,7 +71,7 @@ Dette er grunnen til at bilforhandlere plasserer de dyreste bilmodellene fremst 
 
 SaaS (Software as a Service) bedrifter har blitt ekstremt rutinert på hvordan ankrer i sin markedsføring. Se på de forskjellige planene til [Squarespace](https://www.squarespace.com/pricing) under: 
 
-![](../ankringseffekten/squarespace.jpeg)
+![](../ankringseffekten/Squarespace.jpeg)
 
 Advanced Commerce er Squarespace sin versjon av 5 000 kroner skjorten. Denne planen er ikke der for å selge Advanced Commerce, men er der for å få Business og Basic Commerce planene til se mer overkommelig ut. 
 

@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: 
+Allow: /
+Sitemap: https://sakken.me/sitemap/sitemap-0.xml
+Host: https://sakken.me/

@@ -17,8 +17,6 @@ Butikken fanget oppmerksomhet siden den så veldig dyrere ut enn alle de andre b
 
 Det første jeg la merke til når jeg gikk inn i lokalene var at de hadde mistenkelig lite klær til å være en klesbutikk, og heller ingen kasse der jeg kunne betale. 
 
-![](../ankringseffekten/ralph.jpeg)
-
 De hadde i stedet bare noen få skjorter som var presentert på en måte som gjorde det helt umulig å ikke legge merke til dem.
 
 Jeg gikk over til den første som jeg tenkte kunne se bra ut på meg, snudde over prislappen og fikk umiddelbart "500 Internal Server Error" feilmelding fra hjernen. Prisen skjorten var 60 000 yen, ca 5 000 norske kroner. 
@@ -71,7 +69,7 @@ Dette er grunnen til at bilforhandlere plasserer de dyreste bilmodellene fremst 
 
 SaaS (Software as a Service) bedrifter har blitt ekstremt rutinert på hvordan ankrer i sin markedsføring. Se på de forskjellige planene til [Squarespace](https://www.squarespace.com/pricing) under: 
 
-![](../ankringseffekten/squarespace.jpeg)
+![](../ankringseffekten/Squarespace.jpeg)
 
 Advanced Commerce er Squarespace sin versjon av 5 000 kroner skjorten. Denne planen er ikke der for å selge Advanced Commerce, men er der for å få Business og Basic Commerce planene til se mer overkommelig ut. 
 

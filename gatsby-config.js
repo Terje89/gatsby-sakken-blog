@@ -5,7 +5,7 @@ module.exports = {
       name: `Terje H. Sakariassen`,
       summary: ``,
     },
-    description: `En blogg som handler om noe.`,
+    description: `Millioner av mennesker har jobber som er avhengig av å kommunisere og overbevise andre mennesker. Men hvor mange av oss forstår hvordan hjernen faktisk fungerer?`,
     siteUrl: `https://sakken.me/`,
     social: {
       linkedin: `terje-sakariassen-1a40964a`,

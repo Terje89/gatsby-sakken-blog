@@ -30,8 +30,6 @@ Etter noen sekunder gikk det opp for meg at dette var den dyreste skjorten jeg n
 
 Jeg stakk så av med pengene mine, sjokkert over opplevelsen... 
 
-![](../ankringseffekten/skjorte.jpeg)
-
 Det jeg ikke skjønte den gangen var at jobben til prislappen på 60 000yen ikke var å selge skjorten til 5 000 kroner. Jobben til prislappen (og jeg mistenker hele butikken) var å få alle andre Ralph Lauren skjorter til å virke som god verdi i sammenligning.
 
 Når jeg nå ser Ralph Lauren skjorter på Zalando blir jeg ikke sjokkert over prisen. Jeg blir lettet. 

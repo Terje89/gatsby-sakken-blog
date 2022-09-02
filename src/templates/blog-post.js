@@ -101,6 +101,15 @@ export const pageQuery = graphql`
         description
         timeToRead
         someImage
+        featuredimage {
+          src {
+            childImageSharp {
+              fluid(maxWidth: 1024) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
+        }
         magnetTitle
         magnetDescription
       }

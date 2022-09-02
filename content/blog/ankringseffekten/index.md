@@ -3,9 +3,9 @@ title: "Ankringseffekten: Det du ser først påvirker hvordan du tolker det som 
 date: "2022-09-02"
 description: "Hvorfor plasserer bilforhandlere de dyreste bilene fremst i butikken når disse selger minst?"
 timeToRead: "4"
-someImage: { image: ../ankringseffekten/skjorte.jpeg}
+someImage: "old"
 featuredimage:
-  src: "./salty_egg.jpg"
+  src: "../ankringseffekten/skjorte.jpeg"
 magnetTitle: "👋👋👋 Før du går..."
 magnetDescription: "Meld deg på mitt nyhetsbrev! Nye innlegg hver fredag, rett i din innboks 💌"
 

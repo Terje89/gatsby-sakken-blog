@@ -13,7 +13,7 @@ const BlogPostTemplate = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
   const mixpanel = useMixpanel()
-  const image = post.site.siteMetadata.siteUrl + post.frontmatter.image?.childImageSharp?.fixed?.src
+  const image = data.site.siteMetadata.siteUrl + post.frontmatter.image?.childImageSharp?.fixed?.src
 
 
   useEffect(() => {
@@ -106,7 +106,7 @@ export const pageQuery = graphql`
         someImage
         image {
           childImageSharp {
-            fixed(height: 628, width: 1200) {
+            fixed {
               src
             }
           }

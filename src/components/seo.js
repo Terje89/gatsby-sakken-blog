@@ -60,7 +60,7 @@ const Seo = ({ description, lang, meta, title, featuredimage, }) => {
         },
         {
           property: `og:image`,
-          content: someImage,
+          content: featuredimage,
         },
         {
           property: `og:type`,

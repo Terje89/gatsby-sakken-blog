@@ -13,7 +13,7 @@ const BlogPostTemplate = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
   const mixpanel = useMixpanel()
-  const image = data.site.siteMetadata.siteUrl + data.markdownRemark.frontmatter.image?.childImageSharp?.fixed?.src
+  const image = data.site.siteMetadata.siteUrl + post.frontmatter.image?.childImageSharp?.fixed?.src
 
 
   useEffect(() => {
@@ -27,7 +27,7 @@ const BlogPostTemplate = ({ data, location }) => {
       <Seo
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
-        featuredimage={post.frontmatter.featuredimage}
+        imageUrl={image}
       />
       <article
         className="blog-post"

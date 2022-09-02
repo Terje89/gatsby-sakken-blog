@@ -13,6 +13,8 @@ const BlogPostTemplate = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
   const mixpanel = useMixpanel()
+  const image = data.site.siteMetadata.siteUrl + data.markdownRemark.frontmatter.image?.childImageSharp?.fixed?.src
+
 
   useEffect(() => {
     mixpanel.track('Viewed Content', {
@@ -101,10 +103,10 @@ export const pageQuery = graphql`
         description
         timeToRead
         someImage
-        featuredimage {
-          src {
-            childImageSharp {
-              gatsbyImageData(layout: FLUID)
+        image {
+          childImageSharp {
+            fixed(height: 628, width: 1200) {
+              src
             }
           }
         }

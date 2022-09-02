@@ -4,8 +4,7 @@ date: "2022-09-02"
 description: "Hvorfor plasserer bilforhandlere de dyreste bilene fremst i butikken når disse selger minst?"
 timeToRead: "4"
 someImage: "old"
-featuredimage:
-  src: "../ankringseffekten/skjorte.jpeg"
+image: "../ankringseffekten/skjorte.jpeg"
 magnetTitle: "👋👋👋 Før du går..."
 magnetDescription: "Meld deg på mitt nyhetsbrev! Nye innlegg hver fredag, rett i din innboks 💌"
 

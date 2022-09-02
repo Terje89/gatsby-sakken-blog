@@ -3,7 +3,8 @@ title: "Rammeeffekten: Hva du sier er ikke like viktig som hvordan du sier det"
 date: "2022-08-19"
 description: "10% fett eller 90% fettfri? Majoriteten velger den første, men hvorfor?"
 timeToRead: "7"
-someImage: "https://sakken.me/rammeeffekten/tilbud-li.jpeg"
+featuredimage:
+  src: "../rammeeffekten/ost.jpeg"
 magnetTitle: "👋👋👋 Før du går..."
 magnetDescription: "Meld deg på mitt nyhetsbrev! Nye innlegg hver fredag, rett i din innboks 💌"
 

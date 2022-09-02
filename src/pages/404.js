@@ -22,7 +22,7 @@ const NotFoundPage = ({ data, location }) => {
           <h1>404</h1>
 
           <h2>
-          Ser ut som du har gått deg vill
+          Ser ut som du har gått deg vil
           </h2>
     </Layout>
   )

@@ -3,7 +3,8 @@ title: "Primingeffekten: Du ser med hjernen, ikke øynene"
 date: "2022-08-26"
 description: "Blir du ikke påvirket av reklame? Jeg garanterer at du tar helt feil!"
 timeToRead: "4"
-someImage: "https://sakken.me/rammeeffekten/tilbud-li.jpeg"
+featuredimage:
+  src: "../primingeffekten/stroop.jpeg"
 magnetTitle: "👋👋👋 Før du går..."
 magnetDescription: "Meld deg på mitt nyhetsbrev! Nye innlegg hver fredag, rett i din innboks 💌"
 

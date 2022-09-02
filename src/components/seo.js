@@ -29,6 +29,7 @@ const Seo = ({ description, lang, meta, title, featuredimage, }) => {
 
   const metaDescription = description || site.siteMetadata.description
   const defaultTitle = site.siteMetadata?.title
+  const featured = featuredimage
 
   return (
     <Helmet
@@ -60,7 +61,7 @@ const Seo = ({ description, lang, meta, title, featuredimage, }) => {
         },
         {
           property: `og:image`,
-          content: featuredimage,
+          content: featured,
         },
         {
           property: `og:type`,

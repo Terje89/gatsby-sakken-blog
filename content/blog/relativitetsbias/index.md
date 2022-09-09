@@ -3,7 +3,7 @@ title: "Relativitetsbias: Hvordan vet du om noe er dyrt eller billig?"
 date: "2022-09-09"
 description: "Hvordan relativitet i markedsføring lurer deg til å da irrasjonelle valg"
 timeToRead: "3"
-image: "../relativitetsbias/relativitetsbias.jpeg
+image: "../relativitetsbias/relativitetsbias.jpeg"
 magnetTitle: "👋👋👋 Før du går..."
 magnetDescription: "Meld deg på mitt nyhetsbrev! Nye innlegg hver fredag, rett i din innboks 💌"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Relativitetsbias: Hvordan vet du om noe er dyrt eller billig?"
 date: "2022-09-09"
-description: "Hvordan relativitet i markedsføring lurer deg til å da irrasjonelle valg"
+description: "Hvordan relativitet i markedsføring lurer deg til å ta irrasjonelle valg"
 timeToRead: "3"
 image: "../relativitetsbias/relativitetsbias.jpeg"
 magnetTitle: "👋👋👋 Før du går..."
@@ -30,15 +30,15 @@ Men hjernen er dessverre ikke så enkelt.
 
 50 kroner sammenlignet med 100 føles mye mer enn 50 kroner sammenlignet med 700. 
 
-Den relative prisen på et produkt påvirker veldig direkte din oppførsel. 
+Den relative prisen på et produkt påvirker veldig direkte din oppførsel[^1]. 
 
 Dette kaller vi relativitetsbias.
 
 ## There is nothing high or low but comparing makes it so
 
-Menneskehjernen evaluerer ikke valg i et vakuum. Produkter er kun dyr eller billig, varmt eller kaldt, stort eller lite i sammenligning med andre produkter[^fn1]. Denne effekten er så kraftig at den til og med bestemmer hvordan vi oppfatter verden rundt oss. 
+Menneskehjernen evaluerer ikke valg i et vakuum. Produkter er kun dyr eller billig, varmt eller kaldt, stort eller lite i sammenligning med andre produkter[^1]. Denne effekten er så kraftig at den til og med bestemmer hvordan vi oppfatter verden rundt oss. 
 
-La meg illustrere dette med et berømt eksempel fra 1890 tallet[^fn2]: 
+La meg illustrere dette med et berømt eksempel fra 1890 tallet[^2]: 
 
 ![](../relativitetsbias/ebbinghaus.jpeg)
 
@@ -64,6 +64,6 @@ Tenk derfor på om du gir hjernen til din målgruppe et referansepunkt å sammen
 
 ## Kilder
 
-[^fn1]: Predictably Irrational: The Hidden Forces that Shape Our Decisions
-[^fn2]: Ebbinghaus illusion
+[^1]: Predictably Irrational: The Hidden Forces that Shape Our Decisions
+[^2]: Ebbinghaus illusion
 

@@ -36,7 +36,7 @@ Dette kaller vi relativitetsbias.
 
 ## There is nothing high or low but comparing makes it so
 
-Menneskehjernen evaluerer ikke valg i et vakuum. Produkter er kun dyr eller billig, varmt eller kaldt, stort eller lite i sammenligning med andre produkter[^1]. Denne effekten er så kraftig at den til og med bestemmer hvordan vi oppfatter verden rundt oss. 
+Menneskehjernen evaluerer ikke valg i et vakuum. Produkter er kun dyr eller billig, varmt eller kaldt, store eller små i sammenligning med andre produkter[^1]. Denne effekten er så kraftig at den til og med bestemmer hvordan vi oppfatter verden rundt oss. 
 
 La meg illustrere dette med et berømt eksempel fra 1890 tallet[^2]: 
 

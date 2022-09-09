@@ -1,5 +1,5 @@
 ---
-title: "Relativitetsbias: Hvordan vet du om noe er dyrt eller billig, stort eller liten?"
+title: "Relativitetsbias: Hvordan vet du om noe er dyrt eller billig?"
 date: "2022-09-09"
 description: "Hvordan relativitet i markedsføring lurer deg til å da irrasjonelle valg"
 timeToRead: "3"

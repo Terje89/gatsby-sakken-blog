@@ -70,7 +70,7 @@ Snakk i stedet til dine kunder og potensielle kunder som om de er mennesker, og 
 
 ## En siste ting
 
-Et viktig poeng med gjensidighet er at du må gi uten en forretning om å få noe tilbake. Folk gjennomskuer falsk gjensidighet raskere enn du tror, og dette er ofte verre enn å gjøre ingenting. 
+Et viktig poeng med gjensidighet er at du må gi uten en forventning om å få noe tilbake. Folk gjennomskuer falsk gjensidighet raskere enn du tror, og dette er ofte verre enn å gjøre ingenting. 
 
 Men hvis du i stedet virkelig gir bort uten å forvente noe tilbake, så har gjensidighetsprinsippet makten til å endre hele din markedsstrategi. 
 

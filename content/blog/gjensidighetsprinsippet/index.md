@@ -50,7 +50,7 @@ Dette vil gradvis bygge en sterkere relasjon til din målgruppe, som igjen øker
 
 1. **Gi bort noe av verdi**
 
-Så fort en potensiell kunde treffer din platform burde du tilby noe av verdi. Bonuspoeng hvis dette hjelper dem på veien med å løse problemet de har. Dette kan være alt fra gratis webinar, ebook og sjekklister. 
+Så fort en potensiell kunde treffer din plattform burde du tilby noe av verdi. Bonuspoeng hvis dette hjelper dem på veien med å løse problemet de har. Dette kan være alt fra gratis webinar, ebook og sjekklister. 
 
 Selv om du gir bort noe uten å ta betalt så er ikke dette tapt tid og penger. Det du egentlig kjøper med en slik strategi er folks oppmerksomhet. 
 

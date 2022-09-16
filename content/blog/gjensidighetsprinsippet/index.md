@@ -1,5 +1,5 @@
 ---
-title: "Gjensidighetsprinsippet: Hva Sheldon Cooper kan lære oss om å gi gaver"
+title: "Gjensidighetsprinsippet: Hva Sheldon Cooper kan lære oss om markedsføring"
 date: "2022-09-16"
 description: "Ved å gi noe verdifullt til kunder og potensielle kunder vil du automatisk varme opp målgruppen til deg og din merkevare. De blir litt mer kjent med deg, de liker deg litt bedre og de stoler litt mer på deg. Dette fører igjen til at de vil gi noe tilbake."
 timeToRead: "4"

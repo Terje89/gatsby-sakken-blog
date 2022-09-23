@@ -1,7 +1,7 @@
 ---
 title: "Tapsaversjon: Hvorfor Elkjøp selger utvidet garanti"
 date: "2022-09-23"
-description: "Hvordan frykten for tap lurer deg til å ta irrasjonelle valg"
+description: "Hvordan frykten får deg til å ta irrasjonelle valg"
 timeToRead: "4"
 image: "../tapsaversjon/tapvsgevinst.jpeg"
 magnetTitle: "👋👋👋 Før du går..."
@@ -75,12 +75,6 @@ Her er noen metoder som kan brukes til å oppnå dette:
 * Gratis prøveversjoner og produkter.
 * Forhåndsbestilling av nye produkter.
 * Avgrens antall tilgjengelig for salg.
-
-Bare tenk på hvor ofte du blir presentert for en eller flere av disse hver gang du ser på reklame:
-
-"Bare tilgjengelig frem til X"
-"Begrenset tilbud"
-"Bare X igjen"
 
 Men vær oppmerksom på at dette kun fungerer hvis målgruppen tror det er en reell risiko for å tape noe [^2]. Hvis du lanserer et tidsbegrenset tilbud på X%, bare for å gjøre det samme igjen noen uker etterpå, så er det ikke et reelt tap. 
 

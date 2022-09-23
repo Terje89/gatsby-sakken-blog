@@ -52,13 +52,13 @@ Er ikke dette interessant? Hjernen er så redd for å unngå tap at den er villi
 
 Nå tipper jeg at du tenker noe som: *"jeg er smart, og kjøper aldri utvidet garanti på Elkjøp!"* 
 
-Men (ja, det er altid et men) denne frykten for tap påvirker ikke bare de beslutningene du tar når du står i kassa på Elkjøp.  
+Men denne frykten for tap påvirker ikke bare de beslutningene du tar når du står i kassa på Elkjøp.  
 
 Tenk på hvordan mange mennesker som hver eneste dag går til en jobb de hater, men de sier likevel ikke opp. Dette er tapsaversjon. Frykten om at de kanskje ikke får en ny jobb, eller at den neste jobben blir enda verre, er så stor at de i stedet foretrekker å være ulykkelig i nået. 
 
 Det samme gjelder parforhold. Hvis du noen ganger har vært i et dårlig forhold, men fremdeles ikke villig til å slå opp så vet du hva jeg snakker om. 
 
-Eller hva med Koronavaksiner? Frykten for potensielle bivirkninger oppleves som værre en den reelle risikoen fra viruset. Dette er tapsaversjon. 
+Eller hva med Koronavaksiner? Frykten for potensielle bivirkninger oppleves som verre en den reelle risikoen fra viruset. Dette er tapsaversjon. 
 
 Tapsaversjon påvirker *alle* beslutninger du tar, og du legger heller ikke merke til at det skjer. 
 

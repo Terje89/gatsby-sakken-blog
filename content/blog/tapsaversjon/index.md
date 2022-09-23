@@ -48,8 +48,6 @@ Store deler av deres kunder kjøper likevel denne tjenesten. Dette fungerer ford
 
 Er ikke dette interessant? Hjernen er så redd for å unngå tap at den er villig til å betale ekstra for *følelsen* av trygghet, uavhengig om risikoen for tap er reell eller ikke. 
 
-Bilde 
-
 ## Frykten for tap påvirker alle dine beslutninger
 
 Nå tipper jeg at du tenker noe som: *"jeg er smart, og kjøper aldri utvidet garanti på Elkjøp!"* 
@@ -92,5 +90,6 @@ Men hvis du bruker det på en reell måte så vil det ha en kraftig effekt på d
 
 ## Kilder
 
-[^1]: Advances in Prospect Theory: Cumulative Representation of Uncertainty
-[^2]: The Boundaries of Loss Aversion
+[^1]: [Advances in Prospect Theory: Cumulative Representation of Uncertainty](http://psych.fullerton.edu/mbirnbaum/psych466/articles/tversky_kahneman_jru_92.pdf)
+[^2]: [The Boundaries of Loss Aversion](https://journals.sagepub.com/doi/10.1509/jmkr.42.2.119.62292)
+

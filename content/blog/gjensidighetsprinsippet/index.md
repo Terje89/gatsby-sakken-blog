@@ -78,7 +78,7 @@ Lykke til! :)
 
 ## Kilder
 
-[^1]: Fairness and Retaliation: The Economics of Reciprocity
+[^1]: [Fairness and Retaliation: The Economics of Reciprocity](https://www.aeaweb.org/articles?id=10.1257/jep.14.3.159)
 
 
 

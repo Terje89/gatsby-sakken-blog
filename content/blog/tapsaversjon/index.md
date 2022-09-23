@@ -1,5 +1,5 @@
 ---
-title: "Tapsaversjon: Hvorfor Elkjøp selger utvidet garanti"
+title: "Tapsaversjon: Hvorfor kjøper folk utvidet garanti?"
 date: "2022-09-23"
 description: "Hvordan frykten for tap får deg til å ta irrasjonelle valg"
 timeToRead: "4"

@@ -23,7 +23,7 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/content`,
+        path: `${__dirname}/content/prosjekter`,
         name: `prosjekter`,
       },
     },

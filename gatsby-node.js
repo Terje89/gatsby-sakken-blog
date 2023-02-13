@@ -62,7 +62,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const projectPost = path.resolve(`./src/templates/project-post.js`)
 
     // Get all markdown project posts sorted by date
-    const result = await graphql(
+    result = await graphql(
       `
         {
           allMarkdownRemark(

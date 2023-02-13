@@ -21,6 +21,13 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/content`,
+        name: `prosjekter`,
+      },
+    },
+    {
       resolve: 'gatsby-plugin-mixpanel',
       options: {
         apiToken: process.env.MIXPANEL_PROJECT_TOKEN, // required

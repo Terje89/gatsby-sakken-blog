@@ -1,5 +1,5 @@
 ---
-title: "En blogg om adferdsøkonomi"
+title: "En blogg om adferdsøkonomi, produktutvikling og alt annet jeg har på hjertet"
 date: "2022-08-18"
 description: "Hvordan bestemmer folk hva de liker og ikke liker? Hvorfor sier de en ting, men snur seg så rundt å gjør noe helt annet?"
 timeToRead: "6"
@@ -95,12 +95,3 @@ Og jeg har nå endelig svar på noen av de spørsmålene som har rullet rundt i 
 Med alt dette i bakhodet valgte jeg å starte denne bloggen. For å formidle det jeg har lært, med håpet av at noen andre også finner dette nyttig. 
 
 Så det er meg. Meld deg gjerne på mitt nyhetsbrev under hvis synes noe av dette høres kult ut👇
-
-
-
-
-
-
-
-
-

@@ -9,6 +9,7 @@ import Seo from "../components/seo"
 
 const BlogIndex = ({ data, location }) => {
   const siteAuthor = data.site.siteMetadata?.author.name || `Author`
+  const siteTitle = data.site.siteMetadata?.title || `Title`
   const siteDescription = data.site.siteMetadata?.description || `Description`
   const posts = data.allMarkdownRemark.nodes
   const mixpanel = useMixpanel()
@@ -20,11 +21,23 @@ const BlogIndex = ({ data, location }) => {
   }, []);
 
   return (
-    <Layout location={location} title={siteAuthor}>
+    <Layout location={location} title={siteTitle}>
       <Seo 
       title={siteAuthor} 
       description={siteDescription}
       />
+      <StaticImage
+        layout="fixed"
+        formats={["auto", "webp", "avif"]}
+        src="../images/terje.jpg"
+        width={250}
+        height={250}
+        quality={95}
+        alt="Profile picture"
+      />
+      <h1>Hei 👋 Jeg er Terje</h1>
+      <p>Product Manager, markedsfører, skriv mer tekst her!</p>
+      <p>Mine prosjekter 👇</p>
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug

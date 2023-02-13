@@ -8,28 +8,21 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 
 const BlogIndex = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata?.title || `Title`
+  const siteAuthor = data.site.siteMetadata?.author.name || `Author`
   const siteDescription = data.site.siteMetadata?.description || `Description`
   const posts = data.allMarkdownRemark.nodes
+  const mixpanel = useMixpanel()
 
-  if (posts.length === 0) {
-    return (
-      <Layout location={location} title={siteTitle}>
-        <Seo title="Om meg" />
-        <Bio />
-        <p>
-          No blog posts found. Add markdown posts to "content/blog" (or the
-          directory you specified for the "gatsby-source-filesystem" plugin in
-          gatsby-config.js).
-        </p>
-      </Layout>
-    )
-  }
+  useEffect(() => {
+    mixpanel.track('Viewed Content', {
+      'title': {siteAuthor},
+    });
+  }, []);
 
   return (
-    <Layout location={location} title={siteTitle}>
+    <Layout location={location} title={siteAuthor}>
       <Seo 
-      title="Om meg" 
+      title={siteAuthor} 
       description={siteDescription}
       />
       <ol style={{ listStyle: `none` }}>
@@ -78,10 +71,13 @@ export const pageQuery = graphql`
       siteMetadata {
         title
         description
+        author {
+          name
+        }
       }
     }
     allMarkdownRemark(
-      filter: {fileAbsolutePath: {regex: "/(blogg)/"  } }
+      filter: {fileAbsolutePath: {regex: "/(prosjekter)/"  } }
       sort: { fields: [frontmatter___date], order: DESC }
       ) {
       nodes {

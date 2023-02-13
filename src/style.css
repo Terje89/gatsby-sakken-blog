@@ -459,6 +459,10 @@ a:focus {
     terje page
 =======================*/
 
+  .float-container {
+    margin-bottom: 20px;
+}
+
 .float-child {
     width: 50%;
     float: left;

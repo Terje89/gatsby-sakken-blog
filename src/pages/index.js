@@ -87,7 +87,10 @@ export const pageQuery = graphql`
         description
       }
     }
-    allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(blogg)/"  }, sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(
+      filter: {fileAbsolutePath: {regex: "/(blogg)/"  } }
+      sort: { fields: [frontmatter___date], order: DESC }
+      ) {
       nodes {
         excerpt
         fields {

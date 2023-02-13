@@ -15,7 +15,7 @@ const BlogIndex = ({ data, location }) => {
   if (posts.length === 0) {
     return (
       <Layout location={location} title={siteTitle}>
-        <Seo title="En blogg om adferdsøkonomi" />
+        <Seo title="Om meg" />
         <Bio />
         <p>
           No blog posts found. Add markdown posts to "content/blog" (or the
@@ -29,7 +29,7 @@ const BlogIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <Seo 
-      title="En blogg om adferdsøkonomi" 
+      title="Om meg" 
       description={siteDescription}
       />
       <ol style={{ listStyle: `none` }}>
@@ -80,7 +80,7 @@ export const pageQuery = graphql`
         description
       }
     }
-    allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(prosjekter)/"  } sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(prosjekter)/"  }, sort: { fields: [frontmatter___date], order: DESC }) {
       nodes {
         excerpt
         fields {

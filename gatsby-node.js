@@ -57,7 +57,6 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       })
     })
   }
-}
 
   // Define a template for project post
   const projectPost = path.resolve(`./src/templates/project-post.js`)
@@ -112,6 +111,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         })
       })
     }
+}
   
 
 exports.onCreateNode = ({ node, actions, getNode }) => {

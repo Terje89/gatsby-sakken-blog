@@ -6,7 +6,7 @@ timeToRead: "4"
 someImage: "old"
 image: "../gjensidighetsprinsippet/sheldon.jpeg"
 magnetTitle: "👋👋👋 Før du går..."
-magnetDescription: "Meld deg på mitt nyhetsbrev! Nye innlegg hver fredag, rett i din innboks 💌"
+magnetDescription: "Meld deg på mitt nyhetsbrev! Nye innlegg hver måned, rett i din innboks 💌"
 
 ---
 

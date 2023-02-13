@@ -5,7 +5,7 @@ description: "Hvordan bestemmer folk hva de liker og ikke liker? Hvorfor sier de
 timeToRead: "6"
 someImage: "https://sakken.me/rammeeffekten/tilbud-li.jpeg"
 magnetTitle: "👋👋👋 Før du går..."
-magnetDescription: "Meld deg på mitt nyhetsbrev! Nye innlegg hver fredag, rett i din innboks 💌"
+magnetDescription: "Meld deg på mitt nyhetsbrev! Nye innlegg hver måned, rett i din innboks 💌"
 
 ---
 
@@ -38,7 +38,7 @@ Mitt mål er å:
 * Forklare hvordan hjernen tar beslutninger.
 * Introdusere viktige konsepter innen adferdsøkonomi.
 * Vise deg hvordan dette kan og blir brukt innen markedsføring. 
-* Publisere nytt innlegg hver fredag. 
+* Publisere nytt innlegg en gang i måneden. 
 
 Jeg kommer *ikke* til å gå dypt ned i spesifikke markedstaktikker. Hvis dette er din ting så finnes det utallige blogger som forklarer disse bedre enn det jeg er i stand til. 
 

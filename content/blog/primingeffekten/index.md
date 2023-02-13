@@ -5,7 +5,7 @@ description: "Blir du ikke påvirket av reklame? Jeg garanterer at du tar helt f
 timeToRead: "4"
 image: "../primingeffekten/stroop.jpeg"
 magnetTitle: "👋👋👋 Før du går..."
-magnetDescription: "Meld deg på mitt nyhetsbrev! Nye innlegg hver fredag, rett i din innboks 💌"
+magnetDescription: "Meld deg på mitt nyhetsbrev! Nye innlegg hver måned, rett i din innboks 💌"
 
 
 ---

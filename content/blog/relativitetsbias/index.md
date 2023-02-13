@@ -5,7 +5,7 @@ description: "Hvordan relativitet i markedsføring lurer deg til å ta irrasjone
 timeToRead: "3"
 image: "../relativitetsbias/relativitetsbias.jpeg"
 magnetTitle: "👋👋👋 Før du går..."
-magnetDescription: "Meld deg på mitt nyhetsbrev! Nye innlegg hver fredag, rett i din innboks 💌"
+magnetDescription: "Meld deg på mitt nyhetsbrev! Nye innlegg hver måned, rett i din innboks 💌"
 ---
 
 Se for deg at du står i køen på Rema 1000 for å kjøpe kjøttdeig til tacofredag til 100 kroner. Du synes det er dyrt, men du må jo ha nok kjøtt.

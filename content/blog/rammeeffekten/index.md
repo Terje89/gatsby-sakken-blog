@@ -5,7 +5,7 @@ description: "10% fett eller 90% fettfri? Majoriteten velger den første, men hv
 timeToRead: "7"
 image: "../rammeeffekten/ost.jpeg"
 magnetTitle: "👋👋👋 Før du går..."
-magnetDescription: "Meld deg på mitt nyhetsbrev! Nye innlegg hver fredag, rett i din innboks 💌"
+magnetDescription: "Meld deg på mitt nyhetsbrev! Nye innlegg hver måned, rett i din innboks 💌"
 
 ---
 

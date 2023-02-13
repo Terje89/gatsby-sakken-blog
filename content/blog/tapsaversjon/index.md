@@ -5,7 +5,7 @@ description: "Hvordan frykten for tap får deg til å ta irrasjonelle valg"
 timeToRead: "4"
 image: "../tapsaversjon/tapvsgevinst.jpeg"
 magnetTitle: "👋👋👋 Før du går..."
-magnetDescription: "Meld deg på mitt nyhetsbrev! Nye innlegg hver fredag, rett i din innboks 💌"
+magnetDescription: "Meld deg på mitt nyhetsbrev! Nye innlegg hver måned, rett i din innboks 💌"
 ---
 
 En morgen innser du at det er den tiden på året igjen. Den tiden på året der du må ha på deg en boblejakke for å ikke fryse ihjel det sekundet du går ut døren. 

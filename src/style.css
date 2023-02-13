@@ -459,11 +459,27 @@ a:focus {
     terje page
 =======================*/
 
-  .float-container {
-    margin-bottom: 20px;
+.bio-container {
+  margin-bottom: 20px;
+  display: table;
 }
 
-.float-child {
-    width: 50%;
-    float: left;
-}  
+.bio-child-left {
+  width: 40%;
+}
+
+.bio-child-right {
+  width: 60%;
+} 
+
+@media (max-width: 600px){
+  .bio-child-left {
+    display: block;
+    width: 100%;
+  }
+  
+  .bio-child-right {
+    display: block;
+    width: 100%;
+  }
+}

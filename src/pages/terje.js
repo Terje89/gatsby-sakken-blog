@@ -4,7 +4,6 @@ import { Link, graphql } from "gatsby"
 import { useMixpanel } from 'gatsby-plugin-mixpanel'
 import { StaticImage } from "gatsby-plugin-image"
 
-import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
@@ -27,9 +26,9 @@ const ProjectIndex = ({ data, location }) => {
       title={siteAuthor} 
       description={siteDescription}
       />
-      <div class="float-container">
+      <div class="bio-container">
 
-        <div class="float-child">
+        <div class="bio-child-left">
           <StaticImage
             formats={["auto", "webp", "avif"]}
             src="../images/terje.jpg"
@@ -40,7 +39,7 @@ const ProjectIndex = ({ data, location }) => {
           />
         </div>
 
-        <div class="float-child">
+        <div class="bio-child-right">
           <h1>Hei 👋 <br />Jeg er Terje</h1>
           <p>Product Manager, markedsfører, skriv mer tekst her!</p>
         </div>
@@ -60,7 +59,7 @@ const ProjectIndex = ({ data, location }) => {
               >
                 <header>
                   <h3>
-                    <Link to={post.fields.slug} itemProp="url">
+                    <Link to={"/terje/" + post.fields.slug} itemProp="url">
                       <span itemProp="headline">{title}</span>
                     </Link>
                   </h3>

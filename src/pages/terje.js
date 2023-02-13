@@ -80,7 +80,7 @@ export const pageQuery = graphql`
         description
       }
     }
-    allMarkdownRemark(sort: { filter: {fileAbsolutePath: {regex: "/(prosjekter)/"  } fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(prosjekter)/"  } sort: { fields: [frontmatter___date], order: DESC }) {
       nodes {
         excerpt
         fields {

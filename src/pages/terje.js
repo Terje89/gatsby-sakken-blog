@@ -27,17 +27,26 @@ const BlogIndex = ({ data, location }) => {
       title={siteAuthor} 
       description={siteDescription}
       />
-      <StaticImage
-        layout="fixed"
-        formats={["auto", "webp", "avif"]}
-        src="../images/terje.jpg"
-        width={250}
-        height={250}
-        quality={95}
-        alt="Profile picture"
-      />
-      <h1>Hei 👋 Jeg er Terje</h1>
-      <p>Product Manager, markedsfører, skriv mer tekst her!</p>
+      <div class="float-container">
+
+        <div class="float-child">
+          <StaticImage
+            layout="fixed"
+            formats={["auto", "webp", "avif"]}
+            src="../images/terje.jpg"
+            width={250}
+            height={250}
+            quality={95}
+            alt="Profile picture"
+          />
+        </div>
+
+        <div class="float-child">
+          <h1>Hei 👋 Jeg er Terje</h1>
+          <p>Product Manager, markedsfører, skriv mer tekst her!</p>
+        </div>
+
+      </div>
       <p>Mine prosjekter 👇</p>
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {

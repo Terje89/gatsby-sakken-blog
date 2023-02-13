@@ -454,3 +454,12 @@ a:focus {
     margin: 20px 0;
     display: inline-block;}
 	.contant_box_404{ margin-top:-50px;}
+
+  /*======================
+    terje page
+=======================*/
+
+.float-child {
+    width: 50%;
+    float: left;
+}  

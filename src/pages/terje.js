@@ -11,13 +11,6 @@ const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const siteDescription = data.site.siteMetadata?.description || `Description`
   const posts = data.allMarkdownRemark.nodes
-  const mixpanel = useMixpanel()
-
-  useEffect(() => {
-    mixpanel.track('Viewed Content', {
-      'title': "Homepage",
-    });
-  }, []);
 
   if (posts.length === 0) {
     return (
@@ -87,7 +80,7 @@ export const pageQuery = graphql`
         description
       }
     }
-    allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(blogg)/"  } sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(sort: { filter: {fileAbsolutePath: {regex: "/(prosjekter)/"  } fields: [frontmatter___date], order: DESC }) {
       nodes {
         excerpt
         fields {

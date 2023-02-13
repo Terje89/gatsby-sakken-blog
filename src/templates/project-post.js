@@ -22,7 +22,7 @@ const ProjectPostTemplate = ({ data, location }) => {
   }, []);
 
   return (
-    <Layout location={location} title={siteTitle}>
+    <Layout location="/terje/test" title={siteTitle}>
       <Seo
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}

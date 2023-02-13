@@ -8,7 +8,7 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-const BlogIndex = ({ data, location }) => {
+const ProjectIndex = ({ data, location }) => {
   const siteAuthor = data.site.siteMetadata?.author.name || `Author`
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const siteDescription = data.site.siteMetadata?.description || `Description`
@@ -80,12 +80,11 @@ const BlogIndex = ({ data, location }) => {
           )
         })}
       </ol>
-      <Bio />
     </Layout>
   )
 }
 
-export default BlogIndex
+export default ProjectIndex
 
 export const pageQuery = graphql`
   query {

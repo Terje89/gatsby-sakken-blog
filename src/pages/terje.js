@@ -2,6 +2,7 @@ import * as React from "react"
 import { useEffect } from "react";
 import { Link, graphql } from "gatsby"
 import { useMixpanel } from 'gatsby-plugin-mixpanel'
+import { StaticImage } from "gatsby-plugin-image"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
